@@ -1,7 +1,8 @@
 ---
-title: Week 8 — Quiz, Boolean Predicates 
+title: Week 16 (RRR Week)
 class: Berkeley
 status: Active
 ---
 
-Mon Dec 8
+Wed Dec 10
+: **Final Project**{: .label .label-homework} **{{ site.data.proj[6].name }}**

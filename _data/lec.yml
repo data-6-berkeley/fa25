@@ -58,19 +58,20 @@
   demo-blank:
   slides:
 
-- name: "Grouping, Pivoting, and Disaggregating"
+
+- name: "Filtering and Boolean"
   number: 10
   demo:
   demo-blank:
   slides:
 
-- name: "More Pivoting, Joining"
+- name: "Grouping, Pivoting, and Disaggregating"
   number: 11
   demo:
   demo-blank:
   slides:
 
-- name: "Filtering and Boolean"
+- name: "More Pivoting, Joining"
   number: 12
   demo:
   demo-blank:
@@ -89,13 +90,13 @@
   demo-blank:
   slides:
 
-- name: "Higher Order Functions"
+- name: "Control: Iteration"
   number: 15
   demo:
   demo-blank:
   slides:
 
-- name: "Control: Iteration"
+- name: "Higher Order Functions"
   number: 16
   demo:
   demo-blank:

@@ -5,16 +5,16 @@ status: Active
 ---
 
 Mon Oct 6
-: **12**{: .label} {{ site.data.lec[12].name }} 
-    : [Slides]({{ site.data.lec[12].slides}})
-      &#8226; [Blank Demo]( {{ site.data.lec[12].demo-blank }})
+: **10**{: .label} {{ site.data.lec[10].name }} 
+    : [Slides]({{ site.data.lec[10].slides}})
+      &#8226; [Blank Demo]( {{ site.data.lec[10].demo-blank }})
 
 
 
 Wed Oct 8
-: **10**{: .label} {{ site.data.lec[10].name }} 
-    : [Slides]({{ site.data.lec[10].slides}})
-      &#8226; [Blank Demo]( {{ site.data.lec[10].demo-blank }})
+: **11**{: .label} {{ site.data.lec[11].name }} 
+    : [Slides]({{ site.data.lec[11].slides}})
+      &#8226; [Blank Demo]( {{ site.data.lec[11].demo-blank }})
 : **Lab 6**{: .label .label-lab} [{{ site.data.lab[6].name }}]({{ site.data.lab[6].link }}) (due Fri 10/10)
 
 Thu Oct 9

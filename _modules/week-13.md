@@ -13,7 +13,7 @@ Wed Nov 19
 : **21**{: .label} {{ site.data.lec[21].name }} 
     : [Slides]({{ site.data.lec[21].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[21].demo-blank }})
-: **Lab 9**{: .label .label-lab} [{{ site.data.lab[12].name }}]({{ site.data.lab[12].link }}) (due Fri 11/21)
+: **Lab 12**{: .label .label-lab} [{{ site.data.lab[12].name }}]({{ site.data.lab[12].link }}) (due Fri 11/21)
 : **Final Project**{: .label .label-homework} [{{ site.data.proj[4].name }}]({{ site.data.proj[4].link }})
     (Part 1 due Wed 12/3, Part 2 due Wed 12/10)
     
