@@ -93,22 +93,15 @@
     }
 
     &.lecture {
-      background-color: #D1380A;
+      background-color: $grey-lt-300;
+      color: $grey-dk-300;
     }
 
-    &.discussion {
-      background-color: darken($purple-000, 15%);
-    }
-
-    &.jedi-office-hours {
+    &.section {
       background-color: darken($purple-000, 15%);
     }
 
     &.office-hours {
-      background-color: darken($green-200, 10%);
-    }
-
-    &.lab {
       background-color: darken($green-200, 10%);
     }
   }
