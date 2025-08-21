@@ -1,57 +1,34 @@
-# Berkeley Class Site
+---
+layout: page
+title: ReadMe
+tagline: Introduction to Computational Thinking with Data
+nav_exclude: true
+---
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml)
+# Introduction to Computational Thinking with Data
+{: .mb-2 }
+UC Berkeley
+{: .mb-0 .fs-6 .text-grey-dk-000 }
 
-A template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
+## Offerings
+1. [Fall 2025](https://data6.org/fa25/)
+1. [Summer 2025](https://data6.org/su25/)
+1. [Fall 2024](https://data6.org/fa24/)
+1. [Summer 2024](https://data6.org/su24/)
+1. [Summer 2023](https://data6.org/su23/)
+1. [Summer 2022](https://data6.org/su22/)
+1. [Summer 2021](http://data6.org/su21)
+1. [Spring 2021](http://data94.org)
 
-## Installation
+(new, [Fa25](https://classes.berkeley.edu/content/2025-fall-data-6-001-lec-001)) From the course catalog: This foundational Data Science course combines inferential and computational thinking as applied to the fundamentals of quantitative social inquiry. Apply critical concepts and skills in computer programming to conduct quantitative social science research in various contexts, including economic outcomes, public health, environmental justice, privacy, bioethics, and social networks. Understand the process of using data for quantitative analysis and how to develop a variety of figures, combined with text, to communicate their findings. The focus is on data exploration and identifying patterns relevant to social concepts, rather than inferences and predictions. The course can serve as a precursor to Data 8: Foundations of Data Science.
 
-### Install Ruby and Bundler
-**The berkeley-class-site template requires Ruby 3.3.7 or higher and bundler >= 2.6**
-Install Ruby before continuing. You can check your Ruby version by running:
+(old) From the course catalog: This course is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data C8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.
 
-```bash
-ruby --version
-bundle --version
-```
+## Editing this website
 
-Prerequisites:
+Most of the docs are on [berkeley-class-site](https://berkeley-cdss.github.io/berkeley-class-site/).
 
-- You have everything that [Jekyll requires](https://jekyllrb.com/docs/installation/)
-- You have installed [Bundler](https://bundler.io/): Run `gem install jekyll bundler`
-
-1. [Fork](https://github.com/berkeley-eecs/berkeley-class-site/fork) the repository.
-2. Clone your fork (replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO` accordingly).
-```
-git clone git@github.com:YOUR_GITHUB_USERNAME/YOUR_REPO.git
-```
-3. Install dependencies:
-
-```
-cd YOUR_REPO
-bundle install
-```
-
-## Usage
-
-To run the site locally, run:
-
-```
-bundle exec jekyll serve
-```
-
-Note that if you alter `_config.yml`, you will need to rerun the above command to see the changes reflected.
-
-Search throughout the repository for TODO items called `TODO(setup)` and complete them to customize the site for your course.
-
-## Deployment
-
-The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
-
-## Contributing
-
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for instructions on how to develop this site as part of course staff or if you're interested in contributing to this template repository.
+Data 6 has been customized to use the `_data` folder for different YAML files. We don't have pages per lecture, etc.
 
 ## License
 
