@@ -1,0 +1,19 @@
+- name: "Placeholder: Zero Index offset"
+  number: 0
+
+- name: "Introduction to Python"
+  number: 1
+  link: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw01%2Fhw01.ipynb"
+
+- name: "Table Methods and Functions"
+  number: 2
+  link: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw02%2Fhw02.ipynb"
+
+- name: "Advanced Table Methods and Visualizations"
+  number: 3
+  link: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw03%2Fhw03.ipynb"
+
+- name: "HW 04: Control, Iterations, Strings"
+  number: 4
+  link: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw04%2Fhw04.ipynb"
+

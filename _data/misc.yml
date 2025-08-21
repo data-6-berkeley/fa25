@@ -1,0 +1,11 @@
+survey:
+  - name: "Pre-Semester Survey"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSe9asLtMi_gYKKuAMaJ3unLN6FtVBm-e2VIm_W8FFF52ALCGw/viewform?usp=sharing&ouid=103402950542338937761"
+  - name: "Mid-Semester Survey"
+    link: ""
+  - name: "End-of-Semester Survey"
+    link: ""
+
+project:
+  name: "Final Project: Are We Cooked?"
+  link: "https://edstem.org/us/courses/80458/discussion/6853795"

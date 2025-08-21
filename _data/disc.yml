@@ -1,0 +1,15 @@
+- name: "Placeholder: Zero Index offset"
+  number: 0
+
+- name: "Fractions & Health Data"
+  number: 1
+  slides: "https://docs.google.com/presentation/d/1jNPxnBSJXDtQ0hzsZCU_PVf2HtfbLHnmGbCpj9NmvMM/edit?usp=sharing"
+  worksheet: "https://drive.google.com/file/d/1b1jM2bJnVGVDEqM88ZBS50BUi5H1ASPy/view?usp=sharing"
+  solution: "https://drive.google.com/file/d/1lpIlJog0iZa2j7XXIPtRY9Dsnfizt7BU/view?usp=sharing"
+
+- name: "Discussion two"
+  number: 2
+  slides: "insert slides"
+  worksheet: "insert link"
+  solution: "insert link"
+

@@ -1,0 +1,51 @@
+- name: "Placeholder: Zero Index offset"
+  number: 0
+
+- name: "Introduction, Course Overview"
+  number: 1
+  demo:
+  demo-blank:
+  slides: "https://docs.google.com/presentation/d/15tjl68yIEwwQDrJZxt4KzBiX8e_kloQX0o4KQp_rMy8/edit?usp=sharing"
+
+- name: "Jupyter Notebooks, Arithmetic"
+  number: 2
+  demo:
+  demo-blank: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec02%2Flec02-blank.ipynb"
+  slides: "https://docs.google.com/presentation/d/1FJEBbZyclKvTsvTjzKG8S_Kr9xI738AT75Yq2W-mb7U/edit?usp=sharing"
+
+- name: "Evaluations, Names, and Data Types"
+  number: 3
+  demo:
+  demo_blank: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec03%2Flec03-blank.ipynb"
+  slides: "https://docs.google.com/presentation/d/1s-cpllzfqP2843I2Ve7rhBwK9KqEX7TeEFzTSSmFccQ/edit?usp=sharing"
+
+- name: "Arrays, NumPy, Index, Working with Data"
+  number: 4
+  demo:
+  demo-blank: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec04%2Flec04-blank.ipynb"
+  slides: "https://docs.google.com/presentation/d/10nAwX2_i4b66XVMla7CahCARkLSa4jR14PLhof0GGu4/edit?usp=sharing"
+
+- name:  "Introduction to Social Science Research"
+  number: 5
+  demo:
+  demo-blank: ""
+  slides: "https://docs.google.com/presentation/d/19dw3wet1QWoJJOKzBmPcCHMMTp5dmL_qha8hM4kqcJI/edit?usp=sharing"
+
+- name: "Table Fundamentals"
+  number: 6
+  demo:
+  demo-blank: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec06%2Flec06-blank.ipynb"
+  slides: "https://docs.google.com/presentation/d/15sCA0QbtmzFT4VOuOqgVZpDCA6-Z9aHa8GyVl5vS4YY/edit?usp=sharing"
+
+- name: 
+  number: 7
+  demo:
+  demo-blank: ""
+  slides:
+
+- name: 
+  number: 8
+  demo:
+  demo-blank:
+  slides:
+
