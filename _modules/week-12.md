@@ -16,4 +16,5 @@ Wed Nov 12
 
 Fri Nov 14
 : **Reading**{: .label .label-reading} [{{ site.data.reading[5].name }}]({{ site.data.reading[5].link}}) (due Thu 11/20 @ 11:59PM)
+: **Discussion**{: .label .label-discussion} **Lab 11 work time**
 

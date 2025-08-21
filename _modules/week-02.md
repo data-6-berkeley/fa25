@@ -3,6 +3,9 @@ title: Week 2 — Computation of Rates, Python Names
 class: Berkeley
 status: Active
 ---
+Mon Sep 1
+: **Holiday**{: .label} No class
+
 Tue Sep 2 
 : **Reading**{: .label .label-reading} [{{ site.data.reading[0].name }}]({{ site.data.reading[0].link}}) (due Thu 9/4)
 : **Homework 0**{: .label .label-homework} [{{ site.data.hw[0].name }}]({{ site.data.hw[0].link }})
