@@ -14,9 +14,9 @@
       {%- if page.pronouns -%}
       <span class="staffer-badge">{{ page.pronouns }}</span>
       {%- endif -%}
-      {%- if page.access_email -%}
+      <!-- {%- if page.access_email -%}
       <span class="staffer-badge">{{ site.course_email }}</span>
-      {%- endif -%}
+      {%- endif -%} -->
       {%- if page.access_dsp -%}
       <span class="staffer-badge">DSP</span>
       {%- endif -%}
@@ -29,6 +29,9 @@
     {%- endif -%}
     {%- if page.office_hours -%}
     <p class="staffer-meta">Office Hours: {{ page.office_hours | markdownify | strip_html }}</p>
+    {%- endif -%}
+    {%- if page.bio -%}
+    <p class="staffer-meta">{{ page.bio | markdownify | strip_html }}</p>
     {%- endif -%}
     {{ content }}
   </div>
