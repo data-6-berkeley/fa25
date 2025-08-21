@@ -20,47 +20,30 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+        start: 11:00AM
+        end: 12:00 PM
+        location: Mulford 240
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 3:00 PM
+        end: 5:00 PM
+        location: Warren 101-B
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
       - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Cory 285
+      - name: Lecture
+        start: 11:00AM
+        end: 12:00 PM
+        location: Mulford 240
+      - name: Section
+        start: 12:00 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Evans 85
 ---
