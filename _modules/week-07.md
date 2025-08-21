@@ -8,7 +8,7 @@ Mon Oct 6
 : **10**{: .label} {{ site.data.lec[10].name }} 
     : [Slides]({{ site.data.lec[10].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[10].demo-blank }})
-
+: **Reading**{: .label .label-reading} [{{ site.data.reading[0].name }}]({{ site.data.reading[0].link}}) (due Thu 10/9)
 
 
 Wed Oct 8

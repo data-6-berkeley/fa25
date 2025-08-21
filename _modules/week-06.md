@@ -8,7 +8,7 @@ Mon Sep 29
 : **8**{: .label} {{ site.data.lec[8].name }} 
     : [Slides]({{ site.data.lec[8].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[8].demo-blank }})
-: **Reading**{: .label .label-reading} [{{ site.data.reading[0].name }}]({{ site.data.reading[0].link}})
+: **Reading**{: .label .label-reading} [{{ site.data.reading[0].name }}]({{ site.data.reading[0].link}}) (due Thu 10/2)
 
 Wed Oct 1
 : **9**{: .label} {{ site.data.lec[9].name }} 

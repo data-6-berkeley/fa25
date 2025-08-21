@@ -5,4 +5,4 @@ status: Active
 ---
 
 Wed Dec 10
-: **Final Project**{: .label .label-homework} **{{ site.data.proj[6].name }}**
+: **Project**{: .label .label-homework} **{{ site.data.proj[6].name }}**
