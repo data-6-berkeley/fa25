@@ -1,3 +1,9 @@
+- name: "Placeholder for zero-indexing"
+  number: 0
+  demo:
+  demo-blank:
+  slides:
+
 - name: "Introduction, Course Overview"
   number: 1
   demo:
