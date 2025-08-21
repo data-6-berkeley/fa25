@@ -38,6 +38,6 @@ F Jul 11
     : [Slides]({{ site.data.disc[1].slides }})
       &#8226; [Worksheet]( {{ site.data.disc[1].worksheet }})
       &#8226; [Solution]( {{ site.data.disc[1].solution }})
-: **Survey**{: .label .label-yellow} [{{ site.data.misc.survey[0].name }}]({{ site.data.misc.survey[0].link }})
+: **Survey**{: .label} [{{ site.data.misc.survey[0].name }}]({{ site.data.misc.survey[0].link }})
 {{ site.links.survey.survey01 }} 
-: **Reading**{: .label .label-yellow} [{{ site.data.reading[1].name }}]({{ site.data.reading[1].link}})
+: **Reading**{: .label} [{{ site.data.reading[1].name }}]({{ site.data.reading[1].link}})

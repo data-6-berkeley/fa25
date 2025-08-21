@@ -3,14 +3,14 @@ layout: page
 title: Submitting to Gradescope
 tagline: How to Submit Data 6 Assignments to Gradescope
 # nav_exclude: true
-permalink: /resources/submissions/
+permalink: /resources/gradescope/
 parent: "&#x1F4DA; Resources"
 published: true
 ---
 
 # Homework Submission Instructions
 
-### After you've completed a homework assignment, you'll want to follow these steps to submit your work:
+## After you've completed a homework assignment, you'll want to follow these steps to submit your work:
 
 1. Save your notebook.
 2. Navigate to `Kernel > Restart`.

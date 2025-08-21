@@ -31,6 +31,25 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 ## Exam Questions by Topic
 * View exam questions sorted by topic in document form [here!](https://docs.google.com/document/d/1sEjl9WwAcMoj0YllZyb8ojyGbyNBaXpSHO4iFzdFDCQ/edit?usp=sharing)
-* Formatting adapted from Data 8
-{% include resources-content.html %}
 
+<details markdown="block">
+  <summary class="button">Tables</summary>
+
+- [Fall 2024 Final Q3(7-8)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=15){:target="\_blank"}
+- [Fall 2024 Final Q3(10)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=15){:target="\_blank"}
+- [Fall 2024 Quiz 3b]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=6){:target="\_blank"}
+- [Fall 2024 Quiz 3c]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=9){:target="\_blank"}
+- [Summer 2024 Final Q1e]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"}
+- [Summer 2024 Final Q3(a, c-e)]({{ site.baseurl }}/exams/finals/su24.pdf#page=4){:target="\_blank"}
+- [Summer 2024 Final Q4(a-d)]({{ site.baseurl }}/exams/finals/su24.pdf#page=9){:target="\_blank"}
+- [Summer 2024 Final Q5b]({{ site.baseurl }}/exams/finals/su24.pdf#page=13){:target="\_blank"}
+- [Summer 2023 Final Q1]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+- [Summer 2023 Final Q4a]({{ site.baseurl }}/exams/finals/su23.pdf#page=10){:target="\_blank"}
+- [Summer 2023 Final Q4b(ii - iii)]({{ site.baseurl }}/exams/finals/su23.pdf#page=14){:target="\_blank"}
+- [Summer 2022 Final Q3c]({{ site.baseurl }}/exams/finals/su22.pdf#page=6){:target="\_blank"}
+- [Summer 2022 Final Q4(a - d)]({{ site.baseurl }}/exams/finals/su22.pdf#page=7){:target="\_blank"}
+
+
+</details>
+
+More to come!
