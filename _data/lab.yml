@@ -5,39 +5,51 @@
   number: 1
   link: 
 
-- name: "Tables and Data Manipulation"
+- name: "Print Debugging, Array Operations, NumPy, and Variables"
   number: 2
   link: 
 
   # from Fa24 with no autograder, added autograder to SU25
-- name: "Functions"
+- name: "Arrays, NumPy"
   number: 3
   link: 
 
-- name: "Tables"
+- name: "Tables, Data"
   number: 4
   link: 
 
-- name: "Introduction to Visualization Methods"
+- name: "More Visualization Methods"
   number: 5
   link: 
 
-- name: "Visualizing Two Numerical Variables and Randomness in Jittering"
+- name: "Applying, Sorting"
   number: 6
   link: 
 
-- name: "Functions, Control, Iteration"
+- name: "Grouping, Pivoting and Joining"
   number: 7
   link: 
 
-- name: "Dictionaries"
+- name: "Functions and Control"
   number: 8
   link:
 
-- name: "APIs and Prompt Engineering"
+- name: "Iterations"
   number: 9
   link:  
 
-- name: "TF-IDF, Cohen's Kappa, and Macro F1"
+- name: "BMI"
   number: 10
+  link:  
+
+- name: "Dictionaries"
+  number: 11
+  link:  
+
+- name: "APIs, Prompt Engineering"
+  number: 12
+  link:  
+
+- name: "Polars"
+  number: 13
   link:  

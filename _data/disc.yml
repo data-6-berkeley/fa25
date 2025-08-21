@@ -1,15 +1,68 @@
 - name: "Placeholder: Zero Index offset"
   number: 0
 
-- name: "Fractions & Health Data"
+- name: "Reading 1 Discussion"
   number: 1
   slides: 
   worksheet: 
   solution: 
   
-- name: "Discussion two"
+- name: "Your Digital Self, Gini Coefficients"
   number: 2
-  slides: "insert slides"
-  worksheet: "insert link"
-  solution: "insert link"
+  slides: 
+  worksheet: 
+  solution: 
 
+- name: "Fractions & Health Data"
+  number: 3
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Visualizations"
+  number: 4
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Center and Spread"
+  number: 5
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Bickel Study"
+  number: 6
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Data Privacy, Join, Group, Pivots"
+  number: 7
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Functions, Scope, Control"
+  number: 8
+  slides: 
+  worksheet: 
+  solution:
+
+- name: "Higher-Order Functions, Loop Debugging"
+  number: 9
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "BMI"
+  number: 10
+  slides: 
+  worksheet: 
+  solution: 
+
+- name: "Impact of LLMs"
+  number: 11
+  slides: 
+  worksheet: 
+  solution: 

@@ -1,0 +1,19 @@
+- name: "Explore Dataset"
+  number: 1
+  link:
+
+- name: "(Bickel) Education and Admissions"
+  number: 2
+  link: 
+
+- name: "BMI"
+  number: 3
+  link: 
+
+- name: "Final Project (Part 1)"
+  number: 4
+  link: 
+
+- name: "Final Project (Part 2)"
+  number: 5
+  link: 

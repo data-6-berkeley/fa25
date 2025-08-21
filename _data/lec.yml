@@ -1,31 +1,28 @@
-- name: "Placeholder: Zero Index offset"
-  number: 0
-
 - name: "Introduction, Course Overview"
   number: 1
   demo:
   demo-blank:
   slides:
 
-- name: "Jupyter Notebooks, Arithmetic"
+- name: "Evaluation, Rates, and Names"
   number: 2
   demo:
   demo-blank:
   slides:
 
-- name: "Evaluations, Names, and Data Types"
+- name: "Arrays, Indexing, Working with Data"
   number: 3
   demo:
   demo_blank:
   slides:
 
-- name: "Arrays, NumPy, Index, Working with Data"
+- name: "Variables and Units of Analysis"
   number: 4
   demo:
   demo-blank:
   slides:
 
-- name:  "Introduction to Social Science Research"
+- name:  "Cause and Effect"
   number: 5
   demo:
   demo-blank:
@@ -37,14 +34,113 @@
   demo-blank:
   slides:
 
-- name: 
+- name: "Introduction to Visualization"
   number: 7
   demo:
   demo-blank:
   slides:
 
-- name: 
+- name: "Histograms"
   number: 8
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Center and Spread"
+  number: 9
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Filtering and Boolean"
+  number: 12
+  demo:
+  demo-blank:
+  slides:
+
+
+- name: "Grouping, Pivoting, and Disaggregating"
+  number: 10
+  demo:
+  demo-blank:
+  slides:
+
+- name: "More Pivoting, Joining"
+  number: 11
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Functions and Scope"
+  number: 13
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Control: Conditionals"
+  number: 14
+  demo:
+  demo-blank:
+  slides:
+
+
+- name: "Control: Iteration"
+  number: 16
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Higher Order Functions"
+  number: 15
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Practice"
+  number: 17
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Measurements, Validity and Reliability"
+  number: 18
+  demo:
+  demo-blank:
+  slides:
+
+- name: "APIs, File Formats and Dictionaries"
+  number: 19
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Computational Social Science"
+  number: 20
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Sampling a Population"
+  number: 21
+  demo:
+  demo-blank:
+  slides:
+
+
+- name: "LLMs and Prompt Engineering, NLP"
+  number: 22
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Industry APIs: polars"
+  number: 23
+  demo:
+  demo-blank:
+  slides:
+
+- name: "Conclusion"
+  number: 24
   demo:
   demo-blank:
   slides:
