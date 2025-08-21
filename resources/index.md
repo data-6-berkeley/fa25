@@ -1,5 +1,5 @@
 ---
-title: "&#x1F4DA; Resources"
+title: "Resources"
 description: >-
     Resources
 published: true

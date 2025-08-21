@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "&#x1f3e0; Home"
+title: "Home"
 description: Listing of course modules and topics.
 nav_order: 1
 permalink: /
@@ -12,13 +12,13 @@ seo:
 # **Data 6: Introduction to Computational Thinking with Data Science and Society &#x1f4ca;**
 
 {: .mb-2 }
-UC Berkeley, Summer 2025
+UC Berkeley, Fall 2025
 {: .mb-2 .fs-6}
 
 [Ed](https://edstem.org/us/courses/80458/discussion){: .btn .btn-ed}
 [Gradescope](https://www.gradescope.com/courses/1064926){: .btn .btn-gradescope}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1546002/external_tools/90481){: .btn .btn-bcourses}
-[Jump to Current Week](https://data6.org/su25/#week-6-web-plotting-and-final-review){: .btn .btn-currweek}
+[Jump to Current Week](https://data6.org/fa25/#week-1-introduction-to-python){: .btn .btn-currweek}
 
 {% include announcement-nav.html %}
 
