@@ -11,7 +11,7 @@ Wed Sep 3
 : **2**{: .label} {{ site.data.lec[2].name }} 
     : [Slides]({{ site.data.lec[2].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[2].demo-blank }})
-: **Reading**{: .label .label-reading} [{{ site.data.reading[2].name }}]({{ site.data.reading[2].link}}) 
+: **Reading**{: .label .label-reading} [{{ site.data.reading[0].name }}]({{ site.data.reading[0].link}}) 
 : **Lab 2**{: .label .label-lab} [{{ site.data.lab[2].name }}]({{ site.data.lab[2].link }}) (due Fri 9/5)
 
 Fri Sep 5

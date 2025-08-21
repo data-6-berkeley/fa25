@@ -58,13 +58,6 @@
   demo-blank:
   slides:
 
-- name: "Filtering and Boolean"
-  number: 12
-  demo:
-  demo-blank:
-  slides:
-
-
 - name: "Grouping, Pivoting, and Disaggregating"
   number: 10
   demo:
@@ -76,6 +69,13 @@
   demo:
   demo-blank:
   slides:
+
+- name: "Filtering and Boolean"
+  number: 12
+  demo:
+  demo-blank:
+  slides:
+
 
 - name: "Functions and Scope"
   number: 13
@@ -89,6 +89,11 @@
   demo-blank:
   slides:
 
+- name: "Higher Order Functions"
+  number: 15
+  demo:
+  demo-blank:
+  slides:
 
 - name: "Control: Iteration"
   number: 16
@@ -96,11 +101,6 @@
   demo-blank:
   slides:
 
-- name: "Higher Order Functions"
-  number: 15
-  demo:
-  demo-blank:
-  slides:
 
 - name: "Practice"
   number: 17
