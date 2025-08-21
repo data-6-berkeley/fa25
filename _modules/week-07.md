@@ -18,7 +18,7 @@ Wed Oct 8
 : **Lab 6**{: .label .label-lab} [{{ site.data.lab[6].name }}]({{ site.data.lab[6].link }}) (due Fri 10/10)
 
 Thu Oct 9
-: **Project 2**{: .label .label-project} [{{ site.data.proj[2].name }}]({{ site.data.proj[2].link }})
+: **Project 2**{: .label .label-homework} [{{ site.data.proj[2].name }}]({{ site.data.proj[2].link }})
     (due Wed 10/22)
 
 
@@ -27,4 +27,4 @@ Fri Oct 10
    : [Slides]({{ site.data.disc[6].slides }})
      &#8226; [Worksheet]( {{ site.data.disc[6].worksheet }})
      &#8226; [Solution]( {{ site.data.disc[6].solution }})
-
+: **Reading**{: .label .label-reading} [{{ site.data.reading[2].name }}]({{ site.data.reading[2].link}}) (due Thu 10/16 @ 11:59PM)

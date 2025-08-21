@@ -1,3 +1,5 @@
+- name: "Placeholder"
+
 - name: "Explore Dataset"
   number: 1
   link:
@@ -10,7 +12,7 @@
   number: 3
   link: 
 
-- name: "Final Project (Part 1)"
+- name: "Final Project"
   number: 4
   link: 
 

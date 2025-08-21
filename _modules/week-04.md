@@ -13,9 +13,6 @@ Wed Sep 17
 : **6**{: .label} {{ site.data.lec[6].name }} 
     : [Slides]({{ site.data.lec[6].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[6].demo-blank }})
-: **Project 1**{: .label .label-project} [{{ site.data.proj[1].name }}]({{ site.data.proj[1].link }})
+: **Project 1**{: .label .label-homework} [{{ site.data.proj[1].name }}]({{ site.data.proj[1].link }})
     (due Wed 10/1)
 
-
-
-: **Reading**{: .label .label-reading} [{{ site.data.reading[4].name }}]({{ site.data.reading[4].link}}) 

@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 Mon Sep 22
-: **Quiz 1**{: .label .label-quiz} {{ site.data.quiz[1].name }}
+: **Quiz 1**{: .label .label-exam} **{{ site.data.quiz[1].name }}**
 : **Reading**{: .label .label-reading} [{{ site.data.reading[2].name }}]({{ site.data.reading[2].link}}) (due Thu 9/25 @ 11:59PM)
 
 Wed Sep 24
