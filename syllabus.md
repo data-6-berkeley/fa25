@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus &#x1F4D6;
+# Syllabus
 {:.no_toc}
 
 ## Table of contents

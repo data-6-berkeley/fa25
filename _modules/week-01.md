@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 Wed Aug 27  
-: **1**{: .label} {{ site.data.lec[1].name }} 
+: **1**{: .label .label-grey} {{ site.data.lec[1].name }} 
     : [Slides]({{ site.data.lec[1].slides}})
       &#8226; [Blank Demo]( {{ site.data.lec[1].demo-blank }})
 : **Reading**{: .label .label-reading} [{{ site.data.reading[1].name }}]({{ site.data.reading[1].link}}) 
