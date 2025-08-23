@@ -51,5 +51,18 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 
 </details>
+<details markdown="block">
+  <summary class="button">Functions, Scope, HOF</summary>
 
-More to come!
+- [Fall 2024 Final Q2(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=6){:target="\_blank"}
+- [Fall 2024 Final Q4(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=17){:target="\_blank"}
+- [Fall 2024 Quiz Q2]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=3){:target="\_blank"}
+- [Fall 2024 Quiz Q3a]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=5){:target="\_blank"}
+- [Fall 2024 Quiz Q4]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=10){:target="\_blank"}
+- [Summer 2024 Final Q6a]({{ site.baseurl }}/exams/finals/su24.pdf#page=14){:target="\_blank"}
+- [Summer 2023 Final Q4a(iii-iv)]({{ site.baseurl }}/exams/finals/su23.pdf#page=11){:target="\_blank"}
+- [Summer 2023 Final Q5a]({{ site.baseurl }}/exams/finals/su23.pdf#page=17){:target="\_blank"}
+- [Summer 2022 Final Q5c]({{ site.baseurl }}/exams/finals/su22.pdf#page=16){:target="\_blank"}
+
+</details>
+
