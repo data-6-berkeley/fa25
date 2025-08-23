@@ -1,5 +1,5 @@
 ---
-title: Week 11 — Measurements and Algorithmsx
+title: Week 11 — Measurements and Algorithms
 class: Berkeley
 status: Active
 ---

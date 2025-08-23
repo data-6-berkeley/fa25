@@ -24,10 +24,14 @@
 
 @media (max-width: 50rem) {
   .site-logo {
-    background-position: center;
+    background-position: center !important;
     height: 60px !important;
   }
 }
+.site-logo {
+    background-position: center !important; 
+  }
+  
 
 // hack: because "dk" and "lt" are redefined in dark.scss,
 // this works with both dark mode and light mode
