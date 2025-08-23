@@ -52,7 +52,7 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 </details>
 <details markdown="block">
-  <summary class="button">Functions, Scope, HOF</summary>
+  <summary class="button">Functions, Scope, Higher-order Functions</summary>
 
 - [Fall 2024 Final Q2(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=6){:target="\_blank"}
 - [Fall 2024 Final Q4(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=17){:target="\_blank"}
@@ -65,4 +65,97 @@ Exams from previous semesters can be found below. These exams may differ slightl
 - [Summer 2022 Final Q5c]({{ site.baseurl }}/exams/finals/su22.pdf#page=16){:target="\_blank"}
 
 </details>
+
+<details markdown="block">
+  <summary class="button">Visualizations, Variable Types</summary>
+  - [Fall 2024 Final Q3(6, 8-9)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=14){:target="\_blank"}
+  - [Fall 2024 Quiz Q3c.1]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=9){:target="\_blank"}
+  - [Summer 2024 Final Q4e]({{ site.baseurl }}/exams/finals/su24.pdf#page=11){:target="\_blank"}
+  - [Summer 2023 Final Q1b]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+  - [Summer 2023 Final Q3a]({{ site.baseurl }}/exams/finals/su23.pdf#page=5){:target="\_blank"}
+  - [Summer 2023 Final Q4b.i]({{ site.baseurl }}/exams/finals/su23.pdf#page=14){:target="\_blank"}
+  - [Summer 2022 Final Q1e]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"}
+  - [Summer 2022 Final Q2c]({{ site.baseurl }}/exams/finals/su22.pdf#page=3){:target="\_blank"}
+  - [Summer 2022 Final Q3(a-b)]({{ site.baseurl }}/exams/finals/su22.pdf#page=4){:target="\_blank"}
+  - [Summer 2022 Final Q4b]({{ site.baseurl }}/exams/finals/su22.pdf#page=8){:target="\_blank"}
+</details>
+
+<details markdown="block">
+  <summary class="button">Control, Iteration</summary>
+  - [Fall 2024 Final Q3.4]({{ site.baseurl }}/exams/finals/fa24.pdf#page=12){:target="\_blank"}
+  - [Fall 2024 Final Q4(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=17){:target="\_blank"}
+  - [Summer 2024 Final Q2b]({{ site.baseurl }}/exams/finals/su24.pdf#page=3){:target="\_blank"}
+  - [Summer 2023 Final Q4a(i-iv)]({{ site.baseurl }}/exams/finals/su23.pdf#page=8){:target="\_blank"}
+  - [Summer 2023 Final Q5a]({{ site.baseurl }}/exams/finals/su23.pdf#page=17){:target="\_blank"}
+  - [Summer 2023 Final Q3b.iii]({{ site.baseurl }}/exams/finals/su23.pdf#page=19){:target="\_blank"}
+  - [Summer 2022 Final Q5(a-b)]({{ site.baseurl }}/exams/finals/su22.pdf#page=12){:target="\_blank"}
+</details>
+
+<details markdown="block">
+  <summary class="button">Python Practice</summary>
+  - [Fall 2024 Final Q1(5-8)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=4){:target="\_blank"}
+  - [Fall 2024 Final Q3(1-4)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=8){:target="\_blank"}
+  - [Fall 2024 Quiz Q1]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=2){:target="\_blank"}
+  - [Fall 2024 Quiz Q4]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=10){:target="\_blank"}
+  - [Summer 2024 Final Q1(c,d,i)]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"}
+  - [Summer 2024 Final Q2b]({{ site.baseurl }}/exams/finals/su24.pdf#page=3){:target="\_blank"}
+  - [Summer 2023 Final Q1b]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+  - [Summer 2023 Final Q2(a-b)]({{ site.baseurl }}/exams/finals/su23.pdf#page=3){:target="\_blank"}
+  - [Summer 2023 Final Q4b.iv]({{ site.baseurl }}/exams/finals/su23.pdf#page=11){:target="\_blank"}
+  - [Summer 2023 Final Q5a]({{ site.baseurl }}/exams/finals/su23.pdf#page=17){:target="\_blank"}
+  - [Summer 2023 Final Q5b.iii]({{ site.baseurl }}/exams/finals/su23.pdf#page=19){:target="\_blank"}
+  - [Summer 2022 Final Q1(a,b,c,g,i)]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"}
+  - [Summer 2022 Final Q5(a-c)]({{ site.baseurl }}/exams/finals/su22.pdf#page=12){:target="\_blank"}
+</details>
+
+<details markdown="block">
+  <summary class="button">Human Contexts and Ethics</summary>
+  - [Fall 2024 Final Q1(2-3)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=2){:target="\_blank"}
+  - [Summer 2024 Final Q1k]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"}
+  - [Summer 2024 Final Q3b]({{ site.baseurl }}/exams/finals/su24.pdf#page=7){:target="\_blank"}
+  - [Summer 2023 Final Q4b.iv]({{ site.baseurl }}/exams/finals/su23.pdf#page=11){:target="\_blank"}
+  - [Summer 2022 Final Q1d]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"}
+  - [Summer 2022 Final Q2d]({{ site.baseurl }}/exams/finals/su22.pdf#page=3){:target="\_blank"}
+</details>
+
+<details markdown="block">
+  <summary class="button">Data Science Lifecycle, Research Methods, Sampling</summary>
+- [Fall 2024 Final Q1(1-4)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=2){:target="\_blank"}
+- [Fall 2024 Final Q1(9-11)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=5){:target="\_blank"}
+- [Fall 2024 Quiz Q5]({{ site.baseurl }}/exams/quizzes/fa24.pdf#page=12){:target="\_blank"}
+- [Summer 2024 Final Q1(g,j)]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"} 
+- [Summer 2024 Final Q3f]({{ site.baseurl }}/exams/finals/su24.pdf#page=8){:target="\_blank"} 
+- [Summer 2023 Final Q1g]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+- [Summer 2023 Final Q4b.iii]({{ site.baseurl }}/exams/finals/su23.pdf#page=16){:target="\_blank"}
+- [Summer 2023 Final Q5b.i-ii]({{ site.baseurl }}/exams/finals/su23.pdf#page=19){:target="\_blank"}
+- [Summer 2022 Final Q1h]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"} 
+- [Summer 2022 Final Q2(a-b)]({{ site.baseurl }}/exams/finals/su22.pdf#page=3){:target="\_blank"}
+
+</details>
+
+<details markdown="block">
+  <summary class="button">Arrays and NumPy</summary>
+- [Summer 2024 Final Q1f]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"} 
+- [Summer 2024 Final Q3a.i-ii]({{ site.baseurl }}/exams/finals/su24.pdf#page=4){:target="\_blank"} 
+- [Summer 2024 Final Q3b]({{ site.baseurl }}/exams/finals/su24.pdf#page=5){:target="\_blank"} 
+- [Summer 2024 Final Q5a]({{ site.baseurl }}/exams/finals/su24.pdf#page=12){:target="\_blank"} 
+- [Summer 2023 Final Q4a]({{ site.baseurl }}/exams/finals/su23.pdf#page=8){:target="\_blank"} 
+- [Summer 2022 Final Q1f]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"} 
+- [Summer 2022 Final Q4b]({{ site.baseurl }}/exams/finals/su22.pdf#page=8){:target="\_blank"} 
+- [Summer 2022 Final Q5(a-b)]({{ site.baseurl }}/exams/finals/su22.pdf#page=12){:target="\_blank"} 
+
+
+</details>
+
+<details markdown="block">
+  <summary class="button">Dictionaries</summary>
+- [Fall 2024 Final Q5(1-2)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=19){:target="\_blank"}
+- [Summer 2024 Final Q1h]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"} 
+- [Summer 2024 Final Q2a]({{ site.baseurl }}/exams/finals/su24.pdf#page=3){:target="\_blank"} 
+- [Summer 2023 Final Q1d]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+- [Summer 2023 Final Q2a]({{ site.baseurl }}/exams/finals/su23.pdf#page=3){:target="\_blank"}
+
+
+</details>
+
 
