@@ -56,3 +56,9 @@ $base-button-color: $grey-dk-200;
 .btn:not(.btn-outline) {
   color: $btn-primary-color !important;
 }
+
+// match data8 css
+code {
+  background-color: #2b2b2b !important;
+  color: #e685b5 !important;
+}

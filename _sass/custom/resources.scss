@@ -97,6 +97,6 @@ code {
     line-height: 1.6;
     border: none;
   
-    background-color: $code-bg-color;
-    color: $code-color;
+    background-color: $code-bg-color !important;
+    color: $code-color !important;
   }
