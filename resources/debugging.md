@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "&#x1f9e0 Debugging"
+title: "&#x1f9e0; Debugging"
 permalink: /resources/debugging/
 parent: "&#x1F4DA; Resources"
 description: >-

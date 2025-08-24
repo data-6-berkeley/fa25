@@ -9,6 +9,8 @@ Wed Aug 27
       &#8226; [Blank Demo]( {{ site.data.lec[1].demo-blank }})
 : **Reading**{: .label .label-reading} [{{ site.data.reading[1].name }}]({{ site.data.reading[1].link}}) 
     (due Thu 8/29 @ 11:59PM)
+: **Survey**{: .label .label-homework} [{{ site.data.survey[0].name }}]({{ site.data.survey[0].link }})
+(due Fri 8/29)
 : **Lab 1**{: .label .label-lab} [{{ site.data.lab[1].name }}]({{ site.data.lab[1].link }}) (due Fri 8/29)
 
 
