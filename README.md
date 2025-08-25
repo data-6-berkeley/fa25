@@ -5,10 +5,8 @@ tagline: Introduction to Computational Thinking with Data
 nav_exclude: true
 ---
 
-# Introduction to Computational Thinking with Data
-{: .mb-2 }
-UC Berkeley
-{: .mb-0 .fs-6 .text-grey-dk-000 }
+[![Deploy Jekyll site to Pages](https://github.com/data-6-berkeley/fa25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-6-berkeley/fa25/actions/workflows/jekyll.yml)
+[![Run all page tests](https://github.com/data-6-berkeley/fa25/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-6-berkeley/fa25/actions/workflows/rspec.yml)
 
 ## Offerings
 1. [Fall 2025](https://data6.org/fa25/)
