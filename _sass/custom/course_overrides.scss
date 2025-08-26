@@ -51,3 +51,42 @@
 // just-the-class classes so that labels/whitespace look pretty
 @import 'card';
 @import 'announcement';
+
+// Berkeley-specific colors for buttons
+
+$block-text-color: #e6e1e8;
+@if $color-scheme == dark {
+  $block-text-color: #27262b;
+}
+
+.btn-datahub {
+  @include btn-color($block-text-color !important, #FF8C00);
+}
+
+.btn-ed {
+  @include btn-color($block-text-color !important, #9400D3);
+}
+
+.btn-bcourses {
+  @include btn-color($block-text-color !important, #19519a);
+}
+
+.btn-gradescope {
+  @include btn-color($block-text-color !important, #228B22);
+}
+
+.btn-textbook {
+  @include btn-color($block-text-color !important, teal);
+}
+
+.btn-extensions {
+  @include btn-color($block-text-color !important, #523be7);
+}
+
+.btn-currweek {
+  @include btn-color($block-text-color !important, #FA8072);
+}
+
+.btn-officehours {
+  @include btn-color($block-text-color !important, #1863c1);
+}

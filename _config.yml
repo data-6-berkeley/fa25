@@ -34,9 +34,9 @@ url: 'https://data6.org' # the hostname & protocol for your site, e.g. http://ex
 # TODO(setup): Set all of these course variables
 course: Data 6
 course_email: yanlisa@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 123456 # Again, same as above.
+gradescope_course_id: 1102167 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 1548411 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 84576 # Again, same as above.
 sememster: fa25 # set for the current seemester
 # TODO(template): We need to set this up.
 logo: "/data6.png"

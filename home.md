@@ -15,10 +15,10 @@ seo:
 UC Berkeley, Fall 2025
 {: .mb-2 .fs-6}
 
-[Ed](https://edstem.org/us/courses/80458/discussion){: .btn .btn-ed}
-[Gradescope](https://www.gradescope.com/courses/1064926){: .btn .btn-gradescope}
-[Lecture Recordings](https://bcourses.berkeley.edu/courses/1546002/external_tools/90481){: .btn .btn-bcourses}
-[Jump to Current Week](https://data6.org/fa25/#week-1-introduction-to-python){: .btn .btn-currweek}
+[Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion){: .btn .btn-ed}
+[Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){: .btn .btn-gradescope}
+<!--[Lecture Recordings](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}/external_tools/90481){: .btn .btn-bcourses}-->
+[Jump to Current Week]({{site.url}}{{ site.baseurl }}/#week-1-introduction-to-python){: .btn .btn-currweek}
 
 {% include announcement-nav.html %}
 
