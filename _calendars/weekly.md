@@ -20,6 +20,15 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Lecture
+        start: 11:00AM
+        end: 12:00 PM
+        location: Mulford 240
+      - name: Office Hours
+        start: 4:00 PM
+        end: 6:00 PM
+        location: Warren 101-B
   - name: Tuesday
   - name: Wednesday
     events:
@@ -28,7 +37,7 @@ schedule:
         end: 12:00 PM
         location: Mulford 240
       - name: Office Hours
-        start: 3:00 PM
+        start: 4:00 PM
         end: 5:00 PM
         location: Warren 101-B
   - name: Thursday
@@ -38,10 +47,6 @@ schedule:
         start: 9:00 AM
         end: 11:00 AM
         location: Cory 285
-      - name: Lecture
-        start: 11:00AM
-        end: 12:00 PM
-        location: Mulford 240
       - name: Section
         start: 12:00 PM
         end: 2:00 PM
