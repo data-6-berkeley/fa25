@@ -9,7 +9,6 @@ Mon Dec 1
     : Slides &#8226; Blank Demo  
 
 Wed Dec 3  
-
 : **Project**{: .label .label-homework} **{{ site.data.proj[5].name }}**
 
 Fri Dec 5

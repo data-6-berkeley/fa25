@@ -10,8 +10,6 @@ Mon Oct 6
 Wed Oct 8  
 : **11**{: .label} {{ site.data.lec[11].name }}  
     : Slides &#8226; Blank Demo  
-
-Thu Oct 9  
 : **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
     : (due Wed 10/22)  
 
