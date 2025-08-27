@@ -11,7 +11,7 @@ Mon Sep 29
 Wed Oct 1  
 : **9**{: .label} {{ site.data.lec[9].name }}  
     : Slides &#8226; Blank Demo  
-: **Homework 2**{: .label .label-homework} {{ site.data.hw[2].name }}  
+: **Homework 3**{: .label .label-homework} {{ site.data.hw[2].name }}  
     : (due Wed 10/8)  
 
 Fri Oct 3  

@@ -11,6 +11,8 @@ Mon Oct 20
 Wed Oct 22  
 : **14**{: .label} {{ site.data.lec[14].name }}  
     : Slides &#8226; Blank Demo  
+: **Homework 4**{: .label .label-homework} {{ site.data.hw[3].name }}  
+    : (due Wed 10/29)  
 
 Fri Oct 24  
 : **Discussion 8**{: .label .label-discussion} {{ site.data.disc[8].name }}  
