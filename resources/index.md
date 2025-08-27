@@ -6,6 +6,7 @@ published: true
 permalink: /resources/
 has_children: true
 layout: page
+nav_order: 10
 ---
 
 # &#x1F4DA; Resources	
