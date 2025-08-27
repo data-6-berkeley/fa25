@@ -8,7 +8,7 @@ Wed Aug 27
     : [Slides]({{ site.data.lec[1].slides }})
 : **Reading 1**{: .label .label-reading} {{ site.data.reading[1].name }}
     : (due Thu 8/28 **11:59pm**)
-: **Survey**{: .label .label-homework} {{ site.data.survey[0].name }} 
+: **Survey**{: .label .label-homework} [{{ site.data.survey[0].name }} ]( {{site.data.survey[0].link }})
     : (due Fri 8/29 **5pm**)
 
 
