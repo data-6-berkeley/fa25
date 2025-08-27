@@ -6,7 +6,6 @@ status: Active
 
 Mon Sep 29  
 : **8**{: .label} {{ site.data.lec[8].name }}  
-    : Slides &#8226; Blank Demo  
     <!--: Slides &#8226; Blank Demo  -->
 
 Wed Oct 1  
@@ -22,5 +21,3 @@ Fri Oct 3
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
 : **Lab 5**{: .label .label-lab} {{ site.data.lab[5].name }}  
     : (due Fri 10/3)  
-: **Reading**{: .label .label-reading} {{ site.data.reading[6].name }}  
-    : (due Thu 10/2)
