@@ -77,7 +77,7 @@ You have **2 lab drops** to use in the event of extenuating circumstances that p
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released on Wednesdays after class and due **Thursday at 11:59PM**, the night before section.
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released (ideally) Tuesdays and due **Thursday at 5PM**, the evening before section.
 
 ### Assignments
 You learn data science by **doing** data science, not by just listening to lectures or reading a textbook. As such, homework assignments will be your primary source of learning in this class.
@@ -119,7 +119,7 @@ Here's how we will calculate your final grade:
 | Readings | 7% | - 14 readings |
 | Lab Section | 10% | - 2 drops |
 | Assignments | 40% | - 5 homework assignments (3% each) <br/> - 3 projects (4% each)<br/> - Final Project (10%)|
-| Exams | 38% | - 3 quizzes (8% each) <br/> - Final Exam (14%) |
+| Exams | 40% | - 3 quizzes (9% each) <br/> - Final Exam (13%) |
 
 We will share information later in the semester regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 
@@ -132,7 +132,7 @@ All assignments (homework, labs, and projects) will be submitted on Gradescope. 
 We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is your responsibility to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
 ### Late Submissions
-The deadline for all assignments in this course is 5 PM PT for programming assignments (lab, homework, project assignments) and 11:59PM PT for reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted.
+The deadline for all assignments in this course is 5 PM PT for programming assignments (lab, homework, project assignments) and reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted.
 
 **Extensions**: We understand that life happens and want to provide you with the support you need. We don't want to penalize you because of circumstances that are out of your control. If you have an ongoing situation that prevents you from completing course content, please contact the course instructor and/or TA. This includes assignment extension requests, in which case you must notify us within 24 hours before the deadline. As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope.
 
