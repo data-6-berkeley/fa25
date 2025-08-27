@@ -19,7 +19,7 @@ description: >-
 
 ## About	&#x1F9D0;
 
-Hi! Welcome to Data 6 Fall 2025! We’re excited to have yo on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
+Hi! Welcome to Data 6 Fall 2025! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
 
 ### Course Description
 <!--Data 6 is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics. This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.-->
@@ -28,9 +28,9 @@ This foundational Data Science course is an introduction to computational thinki
 
 This class serves a different purpose than several other classes that may sound similar. Specifically:
 
-* [**Data 8**](https://www.data8.org/): Data 8 (Foundations of Data Science) is the first required course for the UC Berkeley Data Science major and minor. While some topics may be similar, Data 6 does not cover nearly as much statistics and inference. Instead, we dive deeper into the mechanics of Python and how to use Python to generate insights from data using real-world data sets. After taking Data 6, you will be more than well-equipped to take (and succeed in) Data 8.
-* [**CS 10**](https://cs10.org/sp25/): CS 10 (The Beauty and Joy of Computing) is a similar class to Data 6 in that it is intended as an introduction to computing that assumes no prior experience with programming. However, CS 10 focuses less on Python and data science, and more on abstract ideas in computer science. It is a fantastic alternative (or complement) to Data 6.
-* [**CS 61A**](https://cs61a.org/) and [**Data C88C**](https://cs88-website.github.io/sp25/): Both CS 61A (Structure and Interpretation of Computer Programs) and CS 88 (Computational Structures in Data Science) also teach Python, but serve a slightly different purpose than Data 6 — namely, these courses are designed to introduce students to computer science, not to computing *in* data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. CS 61A and Data C88C are also substantially more fast-paced than Data 6 and are excellent to take after Data 6 and/or Data 8.
+* [**Data 8**](https://www.data8.org/) (Foundations of Data Science) is the first required course for the UC Berkeley Data Science major and minor. While some topics may be similar, Data 6 does not cover nearly as much statistics and inference. Instead, we dive deeper into the mechanics of Python and how to use Python to generate insights from data using real-world data sets. After taking Data 6, you will be more than well-equipped to take (and succeed in) Data 8.
+* [**CS 10**](https://cs10.org/sp25/) (The Beauty and Joy of Computing) is a similar class to Data 6 in that it is intended as an introduction to computing that assumes no prior experience with programming. However, CS 10 focuses less on Python and data science, and more on abstract ideas in computer science. It is a fantastic alternative (or complement) to Data 6.
+* [**CS 61A**](https://cs61a.org/) (Structure and Interpretation of Computer Programs) and [**Data C88C**](https://cs88-website.github.io/sp25/) (Computational Structures in Data Science) also teach Python, but serve a slightly different purpose than Data 6 — namely, these courses are designed to introduce students to computer science, not to computing *in* data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. After taking Data 6, you will be more than well-equipped to adapt to the faster pace of CS 61A and Data C88C.
 
 ### Course Materials and Resources
 
@@ -43,25 +43,25 @@ All web platforms are available on our course website: [{{site.url}}{{ site.base
 * **DataHub**: This is where you will complete Python assignments on Jupyter Notebooks, an interactive scientific notebook popular in data science applications and Data courses. Access via [https://datahub.berkeley.edu/](https://datahub.berkeley.edu/) or by clicking coding books on the front page.
 * **Gradescope**: This is where you will submit all assignments, including weekly reading assignments. The front page has a button to our [course Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}).
 * **Google Drive**: Lecture resources are on Google Slides (accompanied by notebooks you can access on DataHub). You will occasionally need to submit surveys via Google Forms.
-* **bCourses**: At the moment, there's not much here.
+* **bCourses**: At the moment, there's not much here. We also won't plan much here, so please contact staff via Ed or email.
 
 ### Support
 
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion), not bCourses. We will also hold in-person office hours that offer drop-in help on assignments and course material.
+You are not alone in this course! The staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion), not bCourses. We will also hold in-person office hours that offer drop-in help on assignments and course material. Instructor "Tea Hours" are for advising and are also drop-in (welcome!). See our [Calendar]({{site.url}}{{ site.baseurl }}/calendar) for office hour times.
 
-We are a much smaller course than many of the Data Science classes you may encounter at Berkeley. Use that to your advantage! The instructor, TAs and UCS1s are here to support you, so please lean on your course staff if you need more support in the class or have any questions/concerns.
+We are a much smaller course than many of the Data Science classes you may encounter at Berkeley. Use this fact to your advantage! The instructor, TAs and UCS1s are here to support you, so please lean on your course staff if you need more support in the class or have any questions/concerns.
 
 ## Course Components	&#x1F4D2;
 
 ### Lecture
 
-* **Lecture**: Monday and Wednesdays 11AM-12PM @ Mulford 240
+* **Lecture**: Monday and Wednesdays 11AM-12PM @ [Mulford 240](https://www.berkeley.edu/map/mulford-hall/)
 
 Lectures are live, in-person, and not recorded. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
 
 **Attendance is required.** The class is small for a UC Berkeley computing class, and we want to make the most of it. Class activities will be interactive and involve discussion; this is as much a critical part of learning as passively absorbing content. Credit for attending will be through answering a class question in PollEverywhere; this question will double as a "concept check" to help understand the material we're currently covering.
 
-You have **5 lecture drops**, meaning you can miss up to 5 lectures without penalty. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc.
+You have **5 lecture drops**, meaning you can miss up to 5 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc.
 
 ### Lab Section
 
@@ -69,31 +69,30 @@ You have **5 lecture drops**, meaning you can miss up to 5 lectures without pena
 
 Weekly section include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational concepts. The problems in section are good preparation for similar (and harder) problems you will see on your homework assignments! Section materials will be released Thursdays each week.
 
-* The first hour focuses on a discussion worksheet and group problem-solving. Sometimes, discussion topics will include social science issues in computing and data, supplemented by reading assignments. We encourage you to ask questions, raise new points, connect to past readings, and make connections to your own experiences. We further encourage no use of technology during this portion of the lab (all materials required will be available at the lab section).
-* The second hour is dedicated to completing a programming-based assignment.
-* 80% of lab credit will be attendance-based. You must attend the section you are enrolled in.
-* The remaining 20% of credit will be awarded for submitting the programming-based assignment to Gradescope by the deadline (later in the day) with all test cases passing Discussion worksheets do not need to be submitted.
-* Active participation in the discussion and lab is required to earn attendance credit.
-* Lab sessions will not be webcast or recorded.
+The first hour focuses on a discussion worksheet and group problem-solving. Sometimes, discussion topics will include social science issues in computing and data, supplemented by reading assignments. We encourage you to ask questions, raise new points, connect to past readings, and make connections to your own experiences. We further encourage no use of technology during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing a programming-based assignment.
+
+**80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the lab to Gradescope by the Friday 5 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their GSI to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
 
 You have **2 lab drops** to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending. For specific concerns related to your lab section, contact your TA.
 
-### Reading Assignments
+### Readings
 
 Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released on Wednesdays after class and due **Thursday at 11:59PM**, the night before section.
 
-### Homework
+### Assignments
 You learn data science by **doing** data science, not by just listening to lectures or reading a textbook. As such, homework assignments will be your primary source of learning in this class.
+
+#### Homework Assignments
 
 Homework assignments will consist mainly of programming problems that challenge you to apply the skills you learned in recent lectures to accomplish tasks involving real data. The homeworks use autograder tests that will tell you if you are on the right track. There are additional autograder tests that will not be visible to you that we will use to grade your work, so don’t assume that just because the public autograder tests are passing that your answers are all correct. **Always remember to double check your code!** Most homeworks will also include a few written response problems, where you will have to type your answer in text. These problems will be manually graded by a human on course staff, and often there is no single ‘right’ solution. We are mainly looking for you to show understanding of what you are doing and to explain your reasoning behind certain answers.
 
 Homework assignments will generally be released Wednesdays and due the following **Wednesday at 5PM**. Access homework by clicking a homework link on the front page, which will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/1064926) so that we can grade it. We will go over this process in more detail in lecture.
 
-### Projects
+#### Projects
 
-Data science is about analyzing real-world data sets, and so you will also complete projects involving real data. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in.
+Four homework assignments will be "projects" where you will analyze real-world datasets. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in.
 
-There are 4 projects (including the 4th final project) throughout the semester. A checkpoint must be reached by the Friday after the project is released. The goal of the checkpoint is for students to have made some progress on the project early! We will not be offering extensions on the checkpoint, but we will begin the checkpoint material in lab that Friday. Projects last two weeks and are due **Wednesday at 5PM**.
+On the week the project is released, the corresponding lab section will give you a chance to work on project material, and you will need to submit a checkpoint by the Friday after project release. Projects are then fully due two weeks later on **Wednesday at 5PM**.
 
 Don’t share your code with anybody but your partner. You are welcome to discuss questions with other students but don’t share the answers. If someone (who is not your partner) asks you for the answer, resist! Instead, you might demonstrate how you would solve a similar problem.
 
@@ -116,16 +115,13 @@ There will not be alternate exams. All exams will be held in-person. More detail
 Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
-| Lecture Attendance | 5% | 5 drops |
-| Readings | 7% |  |
-| Lab | 10% | 2 drops |
-| Homework Assignments | 15% | 5 homework assignments (2% each) |
-| Projects | 15% | 3 projects (5% each) |
-| Final Project | 10% |  |
-| Quizzes | 24% | 3 quizzes (10% each) |
-| Final Exam | 14% | |
+| Lecture Attendance | 3% | - 5 drops, after first lecture <br/> - 3 course surveys, equally weighted with lectures but required |
+| Readings | 7% | - 14 readings |
+| Lab Section | 10% | - 2 drops |
+| Assignments | 40% | - 5 homework assignments (3% each) <br/> - 3 projects (4% each)<br/> - Final Project (10%)|
+| Exams | 38% | - 3 quizzes (8% each) <br/> - Final Exam (14%) |
 
-The instructor nor the TA will respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
+We will share information later in the semester regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment’s due date. It is up to you to check the solutions and request a regrade request before the regrade deadline on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work.
 

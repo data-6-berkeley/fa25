@@ -1,18 +1,21 @@
-- name: "Introduction to Python and Jupyter"
+- name: "Placeholder: Zero Index offset"
   number: 0
 
-- name: "Rates and Arrays"
+- name: "Introduction to Python and Jupyter"
   number: 1
+
+- name: "Rates and Arrays"
+  number: 2
   link:
 
 - name: "Tables and Visualization"
-  number: 2
-  link: 
-
-- name: "Advanced Table Methods"
   number: 3
   link: 
 
-- name: "Control and Iteration"
+- name: "Advanced Table Methods"
   number: 4
+  link: 
+
+- name: "Control and Iteration"
+  number: 5
   link: 

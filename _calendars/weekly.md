@@ -36,11 +36,12 @@ schedule:
         start: 11:00AM
         end: 12:00 PM
         location: Mulford 240
+  - name: Thursday
+    events:
       - name: Office Hours
         start: 4:00 PM
-        end: 5:00 PM
+        end: 6:00 PM
         location: Warren 101-B
-  - name: Thursday
   - name: Friday
     events:
       - name: Section
