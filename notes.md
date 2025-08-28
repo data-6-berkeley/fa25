@@ -1,5 +1,5 @@
 ---
-layout: None
+layout: page
 title: 📖 Course Notes
 description: Link to course notes.
 nav_order: 20
