@@ -15,5 +15,5 @@ Wed Aug 27
 Fri Aug 29
 : **Discussion 1**{: .label .label-discussion} {{ site.data.disc[1].name }}
    <!--: Slides &#8226; Worksheet &#8226; Solution-->
-: **Lab 1**{: .label .label-lab} {{ site.data.lab[1].name }}
+: **Lab 1**{: .label .label-lab} [{{ site.data.lab[1].name }}](site.data.lab[1].link)
     : (due Fri 8/29 **5pm**)
