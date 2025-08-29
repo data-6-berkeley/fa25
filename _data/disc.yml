@@ -4,7 +4,7 @@
 - name: "WMD, and Names, Operations"
   number: 1
   slides: 
-  worksheet: 
+  worksheet: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Fdisc%2Fdisc01%2Fdisc01.pdf&branch=main
   solution: 
   
 - name: "Fractions and Health Data"
