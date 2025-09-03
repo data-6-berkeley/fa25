@@ -6,15 +6,15 @@
 
 - name: "Introduction, Course Overview"
   number: 1
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec01%2Flec01.ipynb"
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1cQAUkF9XblxSjKuidnEt93CAZmVIiWTSJOFRx83rcl0/edit?usp=sharing"
 
-- name: "Evaluation, Rates, and Names"
+- name: "Data Types and Rates"
   number: 2
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec02%2Flec02.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1nm_m2966No93UqcA3sfkR6kucxvUmCc4ifcXVRMPa1g/edit?usp=sharing"
 
 - name: "Arrays, Indexing, Working with Data"
   number: 3

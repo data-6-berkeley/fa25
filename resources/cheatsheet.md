@@ -8,7 +8,7 @@ published: true
 ---
 
 # Data 6 Python Cheatsheet
-_This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for the exams._
+_This cheat sheet has been modified from the [Data 6 Python Reference](http://data6.org/notes/reference) and includes all of the functions and table methods that you will need for the exams._
 
 ## Built-In Python Functions
 

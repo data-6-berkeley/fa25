@@ -8,7 +8,8 @@ Mon Sep 1
 
 Wed Sep 3  
 : **2**{: .label} {{ site.data.lec[2].name }}  
-    <!--: Slides &#8226; Blank Demo-->
+    : [Slides]({{ site.data.lec[2].slides }})
+    &#8226;  [Demo]({{ site.data.lec[2].demo }})
 : **Reading 2**{: .label .label-reading} {{ site.data.reading[2].name }}  
     : (due Thu 9/4)
 : **Homework 1**{: .label .label-homework} {{ site.data.hw[1].name }}  

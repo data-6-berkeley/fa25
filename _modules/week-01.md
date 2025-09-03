@@ -6,6 +6,7 @@ status: Active
 Wed Aug 27  
 : **1**{: .label .label-grey} {{ site.data.lec[1].name }} 
     : [Slides]({{ site.data.lec[1].slides }})
+    &#8226;  [Demo]({{ site.data.lec[1].demo }})
 : **Reading 1**{: .label .label-reading} [{{ site.data.reading[1].name }}]({{site.data.reading[1].link}})
     : (due Thu 8/28 **11:59pm**)
 : **Survey**{: .label .label-homework} [{{ site.data.survey[0].name }} ]( {{site.data.survey[0].link }})

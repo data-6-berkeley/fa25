@@ -59,9 +59,9 @@ We are a much smaller course than many of the Data Science classes you may encou
 
 Lectures are live, in-person, and not recorded. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
 
-**Attendance is required.** The class is small for a UC Berkeley computing class, and we want to make the most of it. Class activities will be interactive and involve discussion; this is as much a critical part of learning as passively absorbing content. Credit for attending will be through answering a class question in PollEverywhere; this question will double as a "concept check" to help understand the material we're currently covering.
+[update 9/3] Attendance is not required, with the exception of guest lectures (TBD). However, the class is small for a UC Berkeley computing class, and we want to make the most of it. Class activities will be interactive and involve discussion; this is as much a critical part of learning as passively absorbing content. <!--Credit for attending will be through answering a class question in PollEverywhere; this question will double as a "concept check" to help understand the material we're currently covering.-->
 
-You have **5 lecture drops**, meaning you can miss up to 5 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc.
+<!--You have **5 lecture drops**, meaning you can miss up to 5 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc.-->
 
 ### Lab Section
 
@@ -115,7 +115,7 @@ There will not be alternate exams. All exams will be held in-person. More detail
 Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
-| Lecture Attendance | 3% | - 5 drops, after first lecture <br/> - 3 course surveys, equally weighted with lectures but required |
+| Surveys | 3% | - 3-5 course surveys, possibly guest lectures |
 | Readings | 7% | - 14 readings |
 | Lab Section | 10% | - 2 drops |
 | Assignments | 40% | - 5 homework assignments (3% each) <br/> - 3 projects (4% each)<br/> - Final Project (10%)|
