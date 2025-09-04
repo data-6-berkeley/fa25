@@ -25,7 +25,11 @@ schedule:
         start: 11:00AM
         end: 12:00 PM
         location: Mulford 240
-      - name: Office Hours
+      - name: Instructor Office Hours
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Warren 111
+      - name: TA Office Hours
         start: 4:00 PM
         end: 6:00 PM
         location: Warren 101-B
@@ -33,9 +37,13 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 11:00AM
+        start: 11:00 AM
         end: 12:00 PM
         location: Mulford 240
+      - name: Instructor Tea Hours / Advising Hours
+        start: 12:15 PM
+        end: 1:30 PM 
+        location: Soda 783
   - name: Thursday
     events:
       - name: Office Hours
