@@ -17,7 +17,7 @@ Wed Sep 3
 
 Fri Sep 5  
 : **Discussion 2**{: .label .label-discussion} {{ site.data.disc[2].name }}
-    : [Worksheet]( {{ site.data.disc[2].worksheet }})
+    : [Slides]({{ site.data.disc[2].slides }}) &#8226;  [Worksheet]( {{ site.data.disc[2].worksheet }})
    <!--: Slides &#8226; Worksheet &#8226; Solution -->
 : **Lab 2**{: .label .label-lab} [{{ site.data.lab[2].name }}]({{site.data.lab[2].link}})
     : (due Fri 9/5)
