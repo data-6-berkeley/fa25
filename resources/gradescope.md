@@ -9,6 +9,7 @@ published: true
 ---
 
 # Homework Submission Instructions
+Here is a [video walkthrough](https://dropbox.com/scl/fi/w5g9hujdk54yj5q0ae70n/Screen-Recording-2025-09-08-at-3.52.35-PM.mov?rlkey=sc9ihiygbcl3t472mdoq1h93z&dl=0) of how to submit homework assignments to Gradescope.
 
 ## After you've completed a homework assignment, you'll want to follow these steps to submit your work:
 
