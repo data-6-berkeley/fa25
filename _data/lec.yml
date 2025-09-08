@@ -16,11 +16,11 @@
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1nm_m2966No93UqcA3sfkR6kucxvUmCc4ifcXVRMPa1g/edit?usp=sharing"
 
-- name: "Arrays, Indexing, Working with Data"
+- name: "Arrays and NumPy"
   number: 3
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec03%2Flec03.ipynb"
   demo_blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1fltLD2CaeWUweLsXjP9lnfArmHiBrKly46h2Wa3JYNE/edit?usp=sharing"
 
 - name: "Variables and Units of Analysis"
   number: 4
