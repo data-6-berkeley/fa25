@@ -22,19 +22,21 @@
   demo_blank:
   slides: "https://docs.google.com/presentation/d/1fltLD2CaeWUweLsXjP9lnfArmHiBrKly46h2Wa3JYNE/edit?usp=sharing"
 
-- name: "Variables and Units of Analysis"
+
+- name: "Table Fundamentals"
   number: 4
   demo:
   demo-blank:
   slides:
 
-- name:  "Cause and Effect"
+
+- name: "Variables and Units of Analysis"
   number: 5
   demo:
   demo-blank:
   slides:
 
-- name: "Table Fundamentals"
+- name:  "Cause and Effect"
   number: 6
   demo:
   demo-blank:
