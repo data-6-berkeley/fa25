@@ -16,12 +16,13 @@ published: true
 2. Navigate to `Kernel > Restart`.
 3. *Manually* run each cell in your notebook, starting from the very top (remember to use `Shift + Enter`!). Make sure all of your test cases still pass.
 4. Save your notebook. (You can never save your notebook too much!)
-5. Run the very last cell, which generates a .zip file for you to download to your local computer. Click the "here" button to download the `.zip` file. The `.zip` file contains all of the necessary components of your submission.
+5. For homework assignments with a written work portion, run the PDF generate cell. This will create a PDF file of your written answers. Submit this PDF to the *Written Work* portal on Gradescope, and make sure to assign pages accordingly.
+6. Run the very last cell, which generates a .zip file for you to download to your local computer. Click the "here" button to download the `.zip` file. 
   * You may receive an error that the .zip file was unable to be created because there was an issue with PDF generation. You need to ensure that you’ve answered all of the questions that require a manual response.
   * If your work downloads as several independent files rather than as a .zip, you are likely using Safari on a Mac. Follow these instructions to make sure you can download your work as a zip (try using Google Chrome).
-6. Upload this `.zip` to the correct assignment on [Gradescope](https://www.gradescope.com/courses/800533).
-  * You should already be added to Gradescope; email [Atticus](atticus.ginsborg@berkeley.edu) or [Edwin](jedwin321@berkeley.edu) if you aren’t.
-  * If your submission time is 12:00am or later on the day after the deadline, your submission will be marked late.
+7. Upload this `.zip` to the correct assignment on [Gradescope](https://www.gradescope.com/courses/1102167).
+  * You should already be added to Gradescope; email course staff if you aren’t.
+  * If your submission time is within 24 hours after the deadline, your submission will be marked late.
 
 **That’s it!** A while after submitting, the autograder built-in to the Gradescope assignment will tell you which test cases you’ve passed and failed. These are exactly the same test cases as the ones that were in your notebook.
 
