@@ -25,9 +25,10 @@
 
 - name: "Table Fundamentals"
   number: 4
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec04%2Flec04.ipynb"
   demo-blank:
-  slides:
+  demo-sheet: "https://docs.google.com/spreadsheets/d/13TX8GvnTNJSAB5exBVgCEm5cG6wpdvrufNwy5XiX-Ww/edit?usp=sharing"
+  slides: "https://docs.google.com/presentation/d/1q7pltNgHy1Pr-COXFLXQ-kVvEfw3ZqdYgLXy-ylh0Eg/edit?usp=sharing"
 
 
 - name: "Variables and Units of Analysis"
