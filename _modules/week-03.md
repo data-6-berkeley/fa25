@@ -13,7 +13,7 @@ Wed Sep 10
     : [Slides]({{ site.data.lec[4].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[4].demo }}) 
     &#8226;  [Sheet]({{ site.data.lec[4].demo-sheet }})
-: **Reading 3**{: .label .label-reading} {{ site.data.reading[3].name }}  
+: **Reading 3**{: .label .label-reading} [{{ site.data.reading[3].name }}]({{site.data.reading[3].link}})  
     : (due Thu 9/11)
 : **Homework 2**{: .label .label-homework} {{ site.data.hw[2].name }}  
     : (due Wed 9/17)  
