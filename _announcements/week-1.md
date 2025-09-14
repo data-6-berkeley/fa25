@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcements
 week: 1
-date: 2025-08-27
+date: 2025-09-04
 ---
 
 Welcome to Data 6!
