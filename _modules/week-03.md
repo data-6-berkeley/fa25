@@ -1,5 +1,5 @@
 ---
-title: Week 3 — Arrays and Variables
+title: Week 3 — Arrays and Tables
 class: Berkeley
 status: Active
 ---

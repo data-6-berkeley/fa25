@@ -1,5 +1,5 @@
 ---
-title: Week 4 — Quiz, Experimental Design
+title: Week 4 - Variables
 class: Berkeley
 status: Active
 ---

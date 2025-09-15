@@ -1,5 +1,5 @@
 ---
-title: Week 5 — Tables and Visualizations
+title: Week 5 Quiz, Visualizations
 class: Berkeley
 status: Active
 ---
