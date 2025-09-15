@@ -19,4 +19,5 @@ Wed Sep 17
 Fri Sep 19  
 : **Discussion**{: .label .label-discussion} Project 1
    <!--: Slides &#8226; Worksheet &#8226; Solution -->
-
+: **Lab 4**{: .label .label-lab} {{ site.data.lab[4].name }}
+    : (due Fri 9/19)  

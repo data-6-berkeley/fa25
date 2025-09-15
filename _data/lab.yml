@@ -1,4 +1,4 @@
-- name: "Placeholder: Zero Index offset"
+- name: "Explore Dataset"
   number: 0
 
 - name: "Using Jupyter Notebooks"
@@ -14,42 +14,45 @@
   number: 3
   link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab03%2Flab03.ipynb&branch=main
 
-- name: "Tables, Data"
+- name: "Explore Dataset"
   number: 4
-  link: 
-
-- name: "More Visualization Methods"
+  
+- name: "Tables, Data"
   number: 5
   link: 
 
-- name: "Applying, Sorting"
+- name: "More Visualization Methods"
   number: 6
   link: 
 
-- name: "Grouping, Pivoting and Joining"
+- name: "Applying, Sorting"
   number: 7
   link: 
 
-- name: "Functions and Control"
+- name: "Grouping, Pivoting and Joining"
   number: 8
+  link: 
+
+- name: "Functions and Control"
+  number: 9
   link:
 
 - name: "Iterations"
-  number: 9
-  link:  
-
-- name: "BMI"
   number: 10
   link:  
 
-- name: "Dictionaries"
+- name: "BMI"
   number: 11
   link:  
 
-- name: "APIs, Prompt Engineering"
+- name: "Dictionaries"
   number: 12
   link:  
 
-- name: "Polars"
+- name: "APIs, Prompt Engineering"
   number: 13
+  link:  
+
+- name: "Polars"
+  number: 14
   link:  

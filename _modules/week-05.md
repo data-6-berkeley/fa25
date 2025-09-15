@@ -15,6 +15,6 @@ Wed Sep 24
 Fri Sep 26  
 : **Discussion 4**{: .label .label-discussion} {{ site.data.disc[4].name }}  
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
-: **Lab 4**{: .label .label-lab} {{ site.data.lab[4].name }}  
+: **Lab 5**{: .label .label-lab} {{ site.data.lab[5].name }}  
     : (due Fri 9/26)  
 
