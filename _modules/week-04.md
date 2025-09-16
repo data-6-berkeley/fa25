@@ -11,7 +11,7 @@ Mon Sep 15
 Wed Sep 17  
 : **6**{: .label} {{ site.data.lec[6].name }}  
     <!--: Slides &#8226; Blank Demo  -->
-: **Reading 4**{: .label .label-reading} {{ site.data.reading[4].name }}  
+: **Reading 4**{: .label .label-reading} [{{ site.data.reading[4].name }}]({{site.data.reading[4].link}})  
     : (due Thu 9/18)
 : **Project 1**{: .label .label-homework} {{ site.data.proj[1].name }}  
     : (due Wed 10/1)  
