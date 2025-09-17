@@ -5,19 +5,19 @@
   number: 1
   slides: https://docs.google.com/presentation/d/12vNI04npY9luHMFVcZOi8h8eBhttI2Y7DR1v1MevfmY/edit?usp=sharing
   worksheet: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Fdisc%2Fdisc01%2Fdisc01.pdf&branch=main
-  solution: 
+  solution: https://drive.google.com/file/d/1xcVRXrbl__AfqTLJUpB-9B0MooBnPzCA/view?usp=sharing
   
 - name: "Considering Fractions"
   number: 2
   slides: https://docs.google.com/presentation/d/1YFm8i3JEPpbl7O6KZ3QUlYd4SkOlXy2BmS-ieTICtyU/edit?usp=sharing
   worksheet: https://drive.google.com/file/d/1xj6WjNn1J2qtvQCw9IZDv7p-Lupmr7b-/view?usp=sharing
-  solution: 
+  solution: https://drive.google.com/file/d/1jgcXqSsO_sB7zS-IsQIXl6kZW-6iCoq6/view?usp=sharing
 
 - name: "Documentation, Array Operations and Table Methods"
   number: 3
-  slides: 
+  slides: https://docs.google.com/presentation/d/1TLlraZCW9_HoWSlLDsibYICizUeyZuJm0_nJuxRO0IY/edit?usp=drive_link
   worksheet: https://drive.google.com/file/d/1tx50K_dRv2PAfqvbZo2cfTEclY5HgmfP/view?usp=sharing
-  solution: 
+  solution: https://drive.google.com/file/d/1Zj0mdvV-pW0tgDLeaWI1pFH6il82gtH5/view?usp=sharing
 
 - name: "Visualizations"
   number: 4
