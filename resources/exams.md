@@ -24,13 +24,27 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 | Semester | Quiz| Final |
 | -- | -- | -- |
-| Fall 2024 | [Quiz](https://data6.org/su25/exams/quizzes/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/quizzes/fa24-sol.pdf) |[Exam](https://data6.org/su25/exams/finals/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/fa24-sol.pdf) | 
-| Summer 2024 | |[Exam](https://data6.org/su25/exams/finals/su24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su24-sol.pdf) |
-| Summer 2023 | | [Exam](https://data6.org/su25/exams/finals/su23.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su23-sol.pdf) |
-| Summer 2022 | | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
+| Fall 2024 | [Quiz]({{ site.baseurl }}/exams/quizzes/fa24.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/fa24-sol.pdf) |[Exam]({{ site.baseurl }}/exams/finals/fa24.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/fa24-sol.pdf) | 
+| Summer 2024 | |[Exam]({{ site.baseurl }}/exams/finals/su24.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su24-sol.pdf) |
+| Summer 2023 | | [Exam]({{ site.baseurl }}/exams/finals/su23.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su23-sol.pdf) |
+| Summer 2022 | | [Exam]({{ site.baseurl }}/exams/finals/su22.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su22-sol.pdf) |
 
 ## Exam Questions by Topic
 * View exam questions sorted by topic in document form [here!](https://docs.google.com/document/d/1sEjl9WwAcMoj0YllZyb8ojyGbyNBaXpSHO4iFzdFDCQ/edit?usp=sharing)
+* For Quiz 1 Fall 2024, see [this Ed post](https://edstem.org/us/courses/84576/discussion/6978879)
+
+
+<details markdown="block">
+  <summary class="button">Names, Data Types, Arrays</summary>
+
+- [Fall 2024 Final Q1(5-8)]({{ site.baseurl }}/exams/finals/fa24.pdf#page=4){:target="\_blank"}
+- [Summer 2022 Final Q3c]({{ site.baseurl }}/exams/finals/su22.pdf#page=6){:target="\_blank"}
+- [Summer 2022 Final Q1(a,h,i)]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"}
+- [Summer 2023 Final Q1(a,i)]({{ site.baseurl }}/exams/finals/su23.pdf#page=2){:target="\_blank"}
+- [Summer 2024 Final Q1(b,c,e,i)]({{ site.baseurl }}/exams/finals/su24.pdf#page=2){:target="\_blank"}
+- [Fall 2024 Final Q1e]({{ site.baseurl }}/exams/finals/fa24.pdf#page=2){:target="\_blank"}
+- [Summer 2024 Final Q3b]({{ site.baseurl }}/exams/finals/su22.pdf#page=2){:target="\_blank"}
+</details>
 
 <details markdown="block">
   <summary class="button">Tables</summary>

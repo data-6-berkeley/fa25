@@ -38,6 +38,7 @@ _This cheat sheet has been modified from the [Data 6 Python Reference](http://da
 | `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
 | `np.cumsum(arr)` | Returns the cumulative sum of the elements in `arr`, where each element is the sum of all preceding elements including itself | **array** | **array**: the cumulative sum of the values in the array |
 | `np.diff(arr)` | Computes the difference between consecutive elements in `arr`. | **array** | **array**: the differences between consecutive elements in the array containing `len(arr) - 1` elements |
+| `np.sort(arr)` | Sorts an array in ascending order. | **array** | `None` (`arr` is sorted; no copy is made) |
 
 
 
