@@ -15,6 +15,6 @@ Wed Aug 27
 
 Fri Aug 29
 : **Discussion 1**{: .label .label-discussion} {{ site.data.disc[1].name }}
-    : [Slides]({{ site.data.disc[1].slides }}) &#8226; [Worksheet]( {{ site.data.disc[1].worksheet }})
+    : [Slides]({{ site.data.disc[1].slides }}) &#8226; [Worksheet]( {{ site.data.disc[1].worksheet }}) &#8226; [Solutions]( {{ site.data.disc[1].solution }})
 : **Lab 1**{: .label .label-lab} [{{ site.data.lab[1].name }}]({{site.data.lab[1].link}})
     : (due Fri 8/29 **5pm**)
