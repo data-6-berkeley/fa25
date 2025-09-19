@@ -13,7 +13,7 @@ Wed Dec 3
     <!--: Slides &#8226; Blank Demo -->
 : **Reading 14**{: .label .label-reading} {{ site.data.reading[14].name }}  
     : (due Thu 12/4 @ 11:59PM)  
-: **Project**{: .label .label-homework} **{{ site.data.proj[5].name }}**
+: **Project**{: .label .label-homework} **{{ site.data.proj[4].name }}**
 
 Fri Dec 5
 : **Discussion**{: .label .label-discussion} Final Project Work Time

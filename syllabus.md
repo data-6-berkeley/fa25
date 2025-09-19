@@ -77,7 +77,7 @@ You have **2 lab drops** to use in the event of extenuating circumstances that p
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released (ideally) Tuesdays and due **Thursday at 5PM**, the evening before section.
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Tuesday evenings and due **Thursday at 11:59PM**, the evening before section.
 
 ### Assignments
 You learn data science by **doing** data science, not by just listening to lectures or reading a textbook. As such, homework assignments will be your primary source of learning in this class.
@@ -90,7 +90,7 @@ Homework assignments will generally be released Wednesdays and due the following
 
 #### Projects
 
-Four homework assignments will be "projects" where you will analyze real-world datasets. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in.
+A few homework assignments will be "projects" where you will analyze real-world datasets. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in.
 
 On the week the project is released, the corresponding lab section will give you a chance to work on project material, and you will need to submit a checkpoint by the Friday after project release. Projects are then fully due two weeks later on **Wednesday at 5PM**.
 
@@ -99,7 +99,7 @@ Don’t share your code with anybody but your partner. You are welcome to discus
 The projects can seem long and difficult, but you are not alone! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you’re ever feeling overwhelmed or don’t know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website. We highly recommend starting early.
 
 ### Quizzes and Exams
-There are 3 in-class quizzes and one final exam. The final exam is required for a passing grade. The below quiz dates are TENTATIVE:
+There are 3 in-class quizzes and one final exam. The final exam is required for a passing grade. The below quiz dates are CONFIRMED: <!--TENTATIVE:-->
 
 * Quiz 1: Monday, September 22, in-class
 * Quiz 2: Monday, October 13, in-class
@@ -118,11 +118,13 @@ Here's how we will calculate your final grade:
 | Surveys | 3% | - 3-5 course surveys, possibly guest lectures |
 | Readings | 7% | - 14 readings |
 | Lab Section | 10% | - 2 drops |
-| Assignments | 40% | - 5 homework assignments (3% each) <br/> - 3 projects (4% each)<br/> - Final Project (10%)|
+| Assignments | 40% | - 5 homework assignments (4% each) <br/> - 2 projects (5% each)<br/> - Final Project (10%)|
 | Exams | 40% | - 3 quizzes (9% each) <br/> - Final Exam (13%) |
 
-We will share information later in the semester regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
+[update 9/19] Assignment grade components were updated to accommodate one less project.
 
+We will share information later in the semester regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
+ear
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment’s due date. It is up to you to check the solutions and request a regrade request before the regrade deadline on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work.
 
 ### Submitting Assignments

@@ -12,7 +12,7 @@ Wed Oct 8
     <!--: Slides &#8226; Blank Demo  -->
 : **Reading 7**{: .label .label-reading} {{ site.data.reading[7].name }}  
     : (due Thu 10/9)  
-: **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
+: **Project 1**{: .label .label-homework} {{ site.data.proj[1].name }}  
     : (due Wed 10/22)  
 
 Fri Oct 10  

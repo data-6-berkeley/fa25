@@ -13,11 +13,13 @@ Wed Sep 17
     : [Slides]({{ site.data.lec[6].slides }})
 : **Reading 4**{: .label .label-reading} [{{ site.data.reading[4].name }}]({{site.data.reading[4].link}})  
     : (due Thu 9/18)
-: **Project 1**{: .label .label-homework} {{ site.data.proj[1].name }}  
-    : (due Wed 10/1)  
 
 Fri Sep 19  
-: **Discussion**{: .label .label-discussion} Project 1
+: **Discussion**{: .label .label-discussion} Review
    <!--: Slides &#8226; Worksheet &#8226; Solution -->
 : **Lab 4**{: .label .label-lab} {{ site.data.lab[4].name }}
     : (due Fri 9/19)  
+
+Sat Sep 20
+: Review Session
+    : 11:00 AM - 12:30 PM, Evans 458

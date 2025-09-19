@@ -13,7 +13,7 @@ Wed Nov 19
     <!--: Slides &#8226; Blank Demo  --> 
 : **Reading 13**{: .label .label-reading} {{ site.data.reading[13].name }}  
     : (due Thu 11/20 @ 11:59PM)
-: **Project**{: .label .label-homework} {{ site.data.proj[4].name }}  
+: **Project**{: .label .label-homework} {{ site.data.proj[3].name }}  
     : (Part 1 due Wed 12/3, Part 2 due Wed 12/10)  
 
 Fri Nov 21  

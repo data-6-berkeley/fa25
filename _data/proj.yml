@@ -1,26 +1,22 @@
 - name: "Placeholder"
 
-- name: "Explore Dataset"
-  number: 1
-  link:
-
 - name: "(Bickel) Education and Admissions"
-  number: 2
+  number: 1
   link: 
 
 - name: "BMI"
-  number: 3
+  number: 2
   link: 
 
 - name: "Final Project"
-  number: 4
+  number: 3
   link: 
 
 - name: "Final Project (Part 1) due"
-  number: 5
+  number: 4
   link: 
 
 
 - name: "Final Project (Part 2) due"
-  number: 6
+  number: 5
   link: 

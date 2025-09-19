@@ -4,7 +4,9 @@ class: Berkeley
 status: Active
 ---
 Mon Sep 22  
-: **Quiz 1**{: .label .label-exam} {{ site.data.quiz[1].name }}  
+: **Quiz 1**{: .label .label-exam} {{ site.data.quiz[1].name }} 
+: **Homework 1**{: .label .label-homework} Resubmit (details TBD)
+    : (due Wed 10/1)
 
 Wed Sep 24  
 : **7**{: .label} {{ site.data.lec[7].name }}  
