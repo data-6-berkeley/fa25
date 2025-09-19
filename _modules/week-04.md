@@ -17,7 +17,7 @@ Wed Sep 17
     : (due Wed 10/1)  
 
 Fri Sep 19  
-: **Discussion**{: .label .label-discussion} Project 1
+: **Discussion**{: .label .label-discussion} Quiz 1 Review
    <!--: Slides &#8226; Worksheet &#8226; Solution -->
-: **Lab 4**{: .label .label-lab} {{ site.data.lab[4].name }}
+: **Lab 4**{: .label .label-lab} [{{ site.data.lab[4].name }}]({{site.data.lab[4].link}})
     : (due Fri 9/19)  

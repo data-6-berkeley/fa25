@@ -14,8 +14,9 @@
   number: 3
   link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab03%2Flab03.ipynb&branch=main
 
-- name: "Explore Dataset"
+- name: "SF Food Safety"
   number: 4
+  link: https://docs.google.com/document/d/1fDNaF-T8A0nEIM8UjIlZUn4E6W7LB9O-tJZioerzZD0/edit?usp=sharing
   
 - name: "Tables, Data"
   number: 5
