@@ -24,10 +24,12 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 | Semester | Quiz| Final |
 | -- | -- | -- |
-| Fall 2024 | [Quiz]({{ site.baseurl }}/exams/quizzes/fa24.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/fa24-sol.pdf) |[Exam]({{ site.baseurl }}/exams/finals/fa24.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/fa24-sol.pdf) | 
-| Summer 2024 | |[Exam]({{ site.baseurl }}/exams/finals/su24.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su24-sol.pdf) |
-| Summer 2023 | | [Exam]({{ site.baseurl }}/exams/finals/su23.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su23-sol.pdf) |
-| Summer 2022 | | [Exam]({{ site.baseurl }}/exams/finals/su22.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su22-sol.pdf) |
+| Fall 2025 | [Quiz 1]({{ site.baseurl }}/exams/quizzes/fa25-quiz1.pdf) | | 
+| Summer 2025 | [Quiz]({{ site.baseurl }}/exams/quizzes/su25-quiz.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/su25-quiz-sol.pdf) |[Final]({{ site.baseurl }}/exams/finals/su25-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su25-final-sol.pdf) | 
+| Fall 2024 | [Quiz]({{ site.baseurl }}/exams/quizzes/fa24-quiz.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/fa24-quiz-sol.pdf) |[Final]({{ site.baseurl }}/exams/finals/fa24-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/fa24-final-sol.pdf) | 
+| Summer 2024 | |[Final]({{ site.baseurl }}/exams/finals/su24-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su24-final-sol.pdf) |
+| Summer 2023 | | [Final]({{ site.baseurl }}/exams/finals/su23-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su23-final-sol.pdf) |
+| Summer 2022 | | [Final]({{ site.baseurl }}/exams/finals/su22-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su22-final-sol.pdf) |
 
 ## Exam Questions by Topic
 * View exam questions sorted by topic in document form [here!](https://docs.google.com/document/d/1sEjl9WwAcMoj0YllZyb8ojyGbyNBaXpSHO4iFzdFDCQ/edit?usp=sharing)
