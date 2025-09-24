@@ -43,11 +43,11 @@
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1WxC8Rdh-jhuu1RQ8mZINc67VNIN5vVfY4AbbPJUpa3w/edit?usp=sharing"
 
-- name: "Introduction to Visualization"
+- name: "Visualizations"
   number: 7
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec07%2Flec07.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1kHypBMRJ_HCOeC543VrwRDQnQI0_oogieRPN6GSlUHw/edit?usp=sharing"
 
 - name: "Histograms"
   number: 8
