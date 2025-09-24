@@ -10,7 +10,7 @@ Wed Sep 24
 : **7**{: .label} {{ site.data.lec[7].name }}  
     : [Slides]({{ site.data.lec[7].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[7].demo }})
-: **Reading 5**{: .label .label-reading} {{ site.data.reading[5].name }}  
+: **Reading 5**{: .label .label-reading} [{{ site.data.reading[5].name }}]({{site.data.reading[6].link}}) 
     : (due Thu 9/25)
 : **Homework 1**{: .label .label-homework} Resubmit ([details](https://docs.google.com/presentation/d/1kHypBMRJ_HCOeC543VrwRDQnQI0_oogieRPN6GSlUHw/edit?slide=id.g38ce788ed61_0_7#slide=id.g38ce788ed61_0_7){: target="\_blank"})
     : (due Wed 10/1 5pm)
