@@ -17,7 +17,7 @@ description: >-
 
 ---
 
-## About	&#x1F9D0;
+## About &#x1F9D0;
 
 Hi! Welcome to Data 6 Fall 2025! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
 
@@ -150,6 +150,7 @@ If you’re not enrolled in DSP, or are in the process of being onboarded by DSP
 
 **Privacy**: All accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and TA.
 
+
 ### Academic Honesty and Learning Collaboratively
 This may be the first class you take at UC Berkeley --— we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.
 
@@ -195,7 +196,6 @@ UC Berkeley’s [Title IX website](https://ophd.berkeley.edu/) provides many res
 Your reaction to this topic might be to laugh it off, or to make or think snide remarks about “political correctness” or jokes about consent or other things. You might think people just need to grow a thicker skin or learn to take a joke. This isn’t your decision to make. Research shows the consequences (emotional as well as physical) on people who experience harassment. When your behavior forces another student to focus on something other than their education, you have crossed a line. You have no right to take someone else’s education away from them.
 
 This issue is very important to your instructors. Therefore, if we cannot appeal to your decency and collegiality, let us at least appeal to your self-interest. Do not mess around on this matter. It will not go well for you.
-
 
 
 #### Issues with Course Staff

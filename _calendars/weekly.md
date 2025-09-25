@@ -29,7 +29,7 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: Warren 111
-      - name: TA Office Hours
+      - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
         location: Warren 101-B

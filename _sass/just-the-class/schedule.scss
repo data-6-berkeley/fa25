@@ -104,5 +104,12 @@
     &.office-hours {
       background-color: darken($green-200, 10%);
     }
+
+    &.instructor-office-hours {
+      background-color: darken($purple-200, 10%);
+    }
+    &.instructor-tea-hours-advising-hours {
+      background-color: darken($purple-200, 10%);
+    }
   }
 }

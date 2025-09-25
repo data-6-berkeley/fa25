@@ -28,6 +28,10 @@ Most of the docs are on [berkeley-class-site](https://berkeley-cdss.github.io/be
 
 Data 6 has been customized to use the `_data` folder for different YAML files. We don't have pages per lecture, etc.
 
+Quick reference for test commands:
+
+* Run tests locally: `bundle exec rspec --only-failures`
+
 ## License
 
 [MIT](LICENSE)
