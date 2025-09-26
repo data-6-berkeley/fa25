@@ -17,7 +17,7 @@ Wed Oct 1
     : (due Wed 10/8)  
 
 Fri Oct 3  
-: **Discussion 5**{: .label .label-discussion} {{ site.data.disc[5].name }}  
-   <!--: Slides &#8226; Worksheet &#8226; Solution  -->
+: **Discussion 6**{: .label .label-discussion} {{ site.data.disc[5].name }}  
+   <!--: FIX NUMBERING Slides &#8226; Worksheet &#8226; Solution  -->
 : **Lab 6**{: .label .label-lab} {{ site.data.lab[6].name }}  
     : (due Fri 10/3)  

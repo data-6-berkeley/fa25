@@ -22,13 +22,13 @@
 - name: "Visualizations"
   number: 4
   slides: 
-  worksheet: 
+  worksheet:
   solution: 
 
-- name: "Center and Spread"
+- name: "Visualization"
   number: 5
   slides: 
-  worksheet: 
+  worksheet: https://drive.google.com/file/d/13-NE36RB30Ouku0okuNaLTjheFkMN2b5/view?usp=sharing
   solution: 
 
 - name: "Bickel Study"
