@@ -27,14 +27,14 @@
 
 - name: "Visualizations"
   number: 5
-  slides: 
+  slides: https://docs.google.com/presentation/d/1bJmhJtHinHD5AEv_XuY-U44XWwvOOOs_MIs3IptxjMw/edit?usp=sharing
   worksheet: https://drive.google.com/file/d/13-NE36RB30Ouku0okuNaLTjheFkMN2b5/view?usp=sharing
-  solution: 
+  solution: https://drive.google.com/file/d/1ofOYSlFm2KXCUxe1XaCT0SBcc2MIGX30/view?usp=sharing
 
 - name: "Visualizations 2"
   number: 5
   slides: 
-  worksheet: https://drive.google.com/file/d/13-NE36RB30Ouku0okuNaLTjheFkMN2b5/view?usp=sharing
+  worksheet: 
   solution: 
 
 
