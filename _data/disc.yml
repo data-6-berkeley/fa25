@@ -19,17 +19,24 @@
   worksheet: https://drive.google.com/file/d/1tx50K_dRv2PAfqvbZo2cfTEclY5HgmfP/view?usp=sharing
   solution: https://drive.google.com/file/d/1Zj0mdvV-pW0tgDLeaWI1pFH6il82gtH5/view?usp=sharing
 
-- name: "Visualizations"
+- name: "Quiz 1 Review"
   number: 4
   slides: 
   worksheet:
   solution: 
 
-- name: "Visualization"
+- name: "Visualizations"
   number: 5
   slides: 
   worksheet: https://drive.google.com/file/d/13-NE36RB30Ouku0okuNaLTjheFkMN2b5/view?usp=sharing
   solution: 
+
+- name: "Visualizations 2"
+  number: 5
+  slides: 
+  worksheet: https://drive.google.com/file/d/13-NE36RB30Ouku0okuNaLTjheFkMN2b5/view?usp=sharing
+  solution: 
+
 
 - name: "Bickel Study"
   number: 6

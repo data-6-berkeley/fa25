@@ -17,6 +17,6 @@ Wed Nov 5
     : (due Wed 11/19)  
 
 Fri Nov 7  
-: **Discussion 10**{: .label .label-discussion} Project 3
+: **Discussion 11**{: .label .label-discussion} Project 3
 : **Lab 11**{: .label .label-lab} {{ site.data.lab[11].name }}  
     : (due Fri 11/7)  

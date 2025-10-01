@@ -17,7 +17,7 @@ Wed Nov 19
     : (Part 1 due Wed 12/3, Part 2 due Wed 12/10)  
 
 Fri Nov 21  
-: **Discussion 11**{: .label .label-discussion} {{ site.data.disc[11].name }}  
+: **Discussion 13**{: .label .label-discussion} {{ site.data.disc[11].name }}  
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
 : **Lab 13**{: .label .label-lab} {{ site.data.lab[13].name }}  
     : (due Fri 11/21)  

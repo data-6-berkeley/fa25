@@ -17,7 +17,7 @@ Wed Oct 29
     : (due Wed 11/5)  
 
 Fri Oct 31  
-: **Discussion 9**{: .label .label-discussion} {{ site.data.disc[9].name }}  
+: **Discussion 10**{: .label .label-discussion} {{ site.data.disc[10].name }}  
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
 : **Lab 10**{: .label .label-lab} {{ site.data.lab[10].name }}  
     : (due Fri 10/31)  
