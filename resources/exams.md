@@ -20,11 +20,12 @@ published: true
 ---
 
 ## Past Exams
+
 Exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` library and Data 6 curriculum has changed over time.
 
 | Semester | Quiz| Final |
 | -- | -- | -- |
-| Fall 2025 | [Quiz 1]({{ site.baseurl }}/exams/quizzes/fa25-quiz1.pdf) | | 
+| Fall 2025 | [Quiz 1]({{ site.baseurl }}/exams/quizzes/fa25-quiz1.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/fa25-quiz1-sol.pdf) | | 
 | Summer 2025 | [Quiz]({{ site.baseurl }}/exams/quizzes/su25-quiz.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/su25-quiz-sol.pdf) |[Final]({{ site.baseurl }}/exams/finals/su25-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su25-final-sol.pdf) | 
 | Fall 2024 | [Quiz]({{ site.baseurl }}/exams/quizzes/fa24-quiz.pdf) [(Solutions)]({{ site.baseurl }}/exams/quizzes/fa24-quiz-sol.pdf) |[Final]({{ site.baseurl }}/exams/finals/fa24-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/fa24-final-sol.pdf) | 
 | Summer 2024 | |[Final]({{ site.baseurl }}/exams/finals/su24-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su24-final-sol.pdf) |
@@ -32,6 +33,7 @@ Exams from previous semesters can be found below. These exams may differ slightl
 | Summer 2022 | | [Final]({{ site.baseurl }}/exams/finals/su22-final.pdf) [(Solutions)]({{ site.baseurl }}/exams/finals/su22-final-sol.pdf) |
 
 ## Exam Questions by Topic
+
 * View exam questions sorted by topic in document form [here!](https://docs.google.com/document/d/1sEjl9WwAcMoj0YllZyb8ojyGbyNBaXpSHO4iFzdFDCQ/edit?usp=sharing)
 * For Quiz 1 Fall 2024, see [this Ed post](https://edstem.org/us/courses/84576/discussion/6978879)
 
@@ -173,5 +175,3 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 
 </details>
-
-
