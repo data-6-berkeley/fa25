@@ -20,6 +20,7 @@ Wed Oct 1
 
 Fri Oct 3  
 : **Discussion 6**{: .label .label-discussion} {{ site.data.disc[6].name }}  
+    : [Worksheet]( {{ site.data.disc[6].worksheet }})
    <!--: FIX NUMBERING Slides &#8226; Worksheet &#8226; Solution  -->
-: **Lab 6**{: .label .label-lab} {{ site.data.lab[6].name }}  
+: **Lab 6**{: .label .label-lab} [{{ site.data.lab[6].name }}]({{site.data.lab[6].link}})
     : (due Fri 10/3)  
