@@ -4,8 +4,9 @@ class: Berkeley
 status: Active
 ---
 Mon Oct 6  
-: **10**{: .label} {{ site.data.lec[10].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
+: **10**{: .label} {{ site.data.lec[10].name }}
+    : [Slides]({{ site.data.lec[10].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[10].demo }})
 
 Wed Oct 8  
 : **11**{: .label} {{ site.data.lec[11].name }}  

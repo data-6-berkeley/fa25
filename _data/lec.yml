@@ -62,11 +62,11 @@
   slides: "https://docs.google.com/presentation/d/19heoEFT4o65jGiWT0kUhDIZQke_xOw7h1uK0PrnVkc4/edit?usp=sharing"
 
 
-- name: "Filtering and Boolean"
+- name: "Filtering and Boolean Predicates"
   number: 10
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec10%2Flec10.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1wiRmTM2Niuo9wpfOtMaGSAJM_iM5dUY3kmORd2ZivTM/edit?usp=sharing"
 
 - name: "Grouping, Pivoting, and Disaggregating"
   number: 11
