@@ -55,7 +55,7 @@
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1vbM8x18k9J-NhwY76yQf-bV70Ev2Lddg_NJfRURhJeA/edit?usp=sharing"
 
-- name: "Summary Statistics"
+- name: "Summary Statistics and Boxplots"
   number: 9
   demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec09%2Flec09.ipynb"
   demo-blank:
