@@ -68,11 +68,11 @@
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1wiRmTM2Niuo9wpfOtMaGSAJM_iM5dUY3kmORd2ZivTM/edit?usp=sharing"
 
-- name: "Grouping, Pivoting, and Disaggregating"
+- name: "Grouping"
   number: 11
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec11%2Flec11.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1BKyIvCGRb4AqQaQKvq4DAVoQyEqQN4dMETe_o2NbYnM/edit?usp=sharing"
 
 - name: "More Pivoting, Joining"
   number: 12

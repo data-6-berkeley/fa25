@@ -10,8 +10,9 @@ Mon Oct 6
 
 Wed Oct 8  
 : **11**{: .label} {{ site.data.lec[11].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
-: **Reading 7**{: .label .label-reading} {{ site.data.reading[7].name }}  
+    : [Slides]({{ site.data.lec[11].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[11].demo }})
+: **Reading 7**{: .label .label-reading} [{{ site.data.reading[7].name }}]({{site.data.reading[6].link}}) 
     : (due Thu 10/9)  
 : **Project 1**{: .label .label-homework} {{ site.data.proj[1].name }}  
     : (due Wed 10/22)  
