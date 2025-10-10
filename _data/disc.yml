@@ -41,7 +41,7 @@
 - name: "Simpson's Paradox: UC Berkeley 1973 Graduate Admissions"
   number: 7
   slides: 
-  worksheet: 
+  worksheet: https://drive.google.com/file/d/1Hj0Z3cN_nZssWqv7wGmia6F8paVq41Df/view?usp=sharing
   solution: 
 
 - name: "Data Privacy, Join, Group, Pivots"
