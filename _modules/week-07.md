@@ -21,5 +21,6 @@ Fri Oct 10
 : **Discussion 7**{: .label .label-discussion} {{ site.data.disc[7].name }}  
     : [Worksheet]( {{ site.data.disc[7].worksheet }})
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
-: **Lab 7**{: .label .label-lab} {{ site.data.lab[7].name }}  
+: **Lab**{: .label .label-lab} Quiz 2 Review Session
+    : [Slides]( {{ site.data.disc[7].slides }})
     

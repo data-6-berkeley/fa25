@@ -40,7 +40,7 @@
 
 - name: "Simpson's Paradox: UC Berkeley 1973 Graduate Admissions"
   number: 7
-  slides: 
+  slides: https://docs.google.com/presentation/d/1jTv6lb0QS0gjxL-l7e3Epm0JypU5UR0Y744RWsJUIQc/edit?usp=sharing
   worksheet: https://drive.google.com/file/d/1Hj0Z3cN_nZssWqv7wGmia6F8paVq41Df/view?usp=sharing
   solution: 
 
