@@ -14,8 +14,6 @@ Wed Oct 8
     &#8226;  [Blank Demo]({{ site.data.lec[11].demo }})
 : **Reading 7**{: .label .label-reading} [{{ site.data.reading[7].name }}]({{site.data.reading[6].link}}) 
     : (due Thu 10/9)  
-: **Project 1**{: .label .label-homework} {{ site.data.proj[1].name }}  
-    : (due Wed 10/22)  
 
 Fri Oct 10  
 : **Discussion 7**{: .label .label-discussion} {{ site.data.disc[7].name }}  
@@ -23,4 +21,6 @@ Fri Oct 10
    <!--: Slides &#8226; Worksheet &#8226; Solution  -->
 : **Lab**{: .label .label-lab} Quiz 2 Review Session
     : [Slides]( {{ site.data.disc[7].slides }})
+: **Project 1**{: .label .label-homework} [{{ site.data.proj[1].name }}]({{ site.data.proj[1].link }}) 
+    : (due Wed 10/22)  
     
