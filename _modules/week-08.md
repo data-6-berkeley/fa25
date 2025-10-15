@@ -1,5 +1,5 @@
 ---
-title: Week 8 — Quiz, Boolean Predicates 
+title: Week 8 — Advanced Table Methods II
 class: Berkeley
 status: Active
 ---
@@ -9,8 +9,9 @@ Mon Oct 13
 
 Wed Oct 15  
 : **12**{: .label} {{ site.data.lec[12].name }}  
-    <!--: Slides &#8226; Blank Demo-->
-: **Reading 8**{: .label .label-reading} {{ site.data.reading[8].name }}  
+    : [Slides]({{ site.data.lec[12].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[12].demo }})
+: **Reading 8**{: .label .label-reading} [{{ site.data.reading[8].name }}]({{site.data.reading[8].link}})  
     : (due Thu 10/16)
 
 Fri Oct 17  
