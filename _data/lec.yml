@@ -81,11 +81,11 @@
   slides: "https://docs.google.com/presentation/d/12uM_z5LoJopyiBLsIHm4YIvidsQpa8DhloVcDfbAf6w/edit?usp=sharing"
 
 
-- name: "Functions and Scope"
+- name: "Functions, Scope, and Apply"
   number: 13
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec13%2Flec13.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1u7bLPQVLlUIIyXsOtSqb7RSTKRkmaNF1Ev_69zjLL-M/edit?usp=sharing"
 
 - name: "Control: Conditionals"
   number: 14

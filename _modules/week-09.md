@@ -6,7 +6,8 @@ status: Active
 
 Mon Oct 20  
 : **13**{: .label} {{ site.data.lec[13].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
+    : [Slides]({{ site.data.lec[13].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[13].demo }})
 
 Wed Oct 22  
 : **14**{: .label} {{ site.data.lec[14].name }}  
