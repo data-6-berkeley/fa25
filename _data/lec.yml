@@ -99,26 +99,26 @@
   demo-blank:
   slides:
 
-- name: "Higher Order Functions"
+- name: "Measurements, Validity, and Reliability"
   number: 16
   demo:
   demo-blank:
   slides:
 
 
-- name: "Practice"
+- name: "APIs"
   number: 17
   demo:
   demo-blank:
   slides:
 
-- name: "Measurements, Validity and Reliability"
+- name: "File Formats and Dictionaries"
   number: 18
   demo:
   demo-blank:
   slides:
 
-- name: "APIs, File Formats and Dictionaries"
+- name: "Practice/TBD"
   number: 19
   demo:
   demo-blank:
