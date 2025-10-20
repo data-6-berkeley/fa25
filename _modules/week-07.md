@@ -22,5 +22,5 @@ Fri Oct 10
 : **Lab**{: .label .label-lab} Quiz 2 Review Session
     : [Slides]( {{ site.data.disc[7].slides }})
 : **Project 1**{: .label .label-homework} [{{ site.data.proj[1].name }}]({{ site.data.proj[1].link }}) 
-    : (due Wed 10/22)  
+    : (due Thu 10/23 8pm)  
     
