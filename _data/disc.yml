@@ -46,9 +46,9 @@
 
 - name: "Data Privacy, Join, Group, Pivots"
   number: 8
-  slides: 
-  worksheet: 
-  solution: 
+  slides: https://docs.google.com/presentation/d/13COzHJQcaM7N9ri4_iHB09Q1PYOsEhZWmocexIlXlnQ/edit?usp=sharing
+  worksheet: https://drive.google.com/file/d/1XowTTSHhe1NZP51OHVPtbs3S2zHLhWIE/view?usp=sharing
+  solution: https://drive.google.com/file/d/1EY1qo3x3xU4v5WwZ-8q0aEL6mC9xW61K/view?usp=sharing
 
 - name: "Functions, Scope, Control"
   number: 9
