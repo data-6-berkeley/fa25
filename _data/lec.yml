@@ -89,9 +89,9 @@
 
 - name: "Control: Conditionals"
   number: 14
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec14%2Flec14.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1cnDJYiyBhDXneXYv7MT3qUnAPapOC506sh2e8FvCp8M/edit?usp=sharing"
 
 - name: "Control: Iteration"
   number: 15

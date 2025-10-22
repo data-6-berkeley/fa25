@@ -11,10 +11,11 @@ Mon Oct 20
 
 Wed Oct 22  
 : **14**{: .label} {{ site.data.lec[14].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
+    : [Slides]({{ site.data.lec[14].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[14].demo }})
 : **Homework 4**{: .label .label-homework} {{ site.data.hw[4].name }}  
     : (due Wed 10/29)    
-: **Reading 9**{: .label .label-reading} {{ site.data.reading[9].name }}  
+: **Reading 9**{: .label .label-reading} [{{ site.data.reading[9].name }}]({{site.data.reading[9].link}}) 
     : (due Thu 10/23)
 
 Fri Oct 24  
