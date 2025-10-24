@@ -53,7 +53,7 @@
 - name: "Functions and Conditionals"
   number: 9
   slides: 
-  worksheet: 
+  worksheet: https://drive.google.com/file/d/1xTMRE29rj413pwSFziV2h2DvQE11Y1jN/view?usp=sharing
   solution:
 
 - name: "Iterations and Algorithms"
