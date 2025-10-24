@@ -52,9 +52,9 @@
 
 - name: "Functions and Conditionals"
   number: 9
-  slides: 
+  slides: https://docs.google.com/presentation/d/1IjrYcyNj-fCaaIdUMGmzKh6oKw8AFqU3YA2k9fi9gz8/edit?usp=sharing
   worksheet: https://drive.google.com/file/d/1xTMRE29rj413pwSFziV2h2DvQE11Y1jN/view?usp=sharing
-  solution:
+  solution: https://drive.google.com/file/d/1_Z2fGAqSlgfQAiyPapo95CLbyS1I9b-x/view?usp=sharing
 
 - name: "Iterations and Algorithms"
   number: 10
