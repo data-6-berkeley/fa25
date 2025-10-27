@@ -14,7 +14,7 @@ Wed Nov 5
 : **Reading 11**{: .label .label-reading} {{ site.data.reading[11].name }}  
     : (due Thu 11/6)
 : **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
-    : (due Wed 11/19)  
+    : (due Thu 11/20 @ 8pm)  
 
 Fri Nov 7  
 : **Discussion 11**{: .label .label-discussion} Project 3

@@ -1,11 +1,10 @@
 ---
-title: Week 9 Updated Announcements
-week: 9
-date: 2025-10-24
+title: Week 10 Announcements
+week: 10
+date: 2025-10-27
 ---
 
 1. **Assignments Due**
-    * [Project 1]({{site.data.proj[1].link}}) deadline has been **extended** to *<u>Thursday</u> October 23 @ 8 PM*
-    * Reading 9 will be due on *<u>Thursday</u> October 23 @ 11:59 PM*
-    * Lab 9 will be due on *<u>Friday</u> October 24 @ 5 PM*
-2. Congrats on finishing Quiz 2! Grades will be released soon.
+    * [Homework 4]({{site.data.hw[4].link}}) is due on *<u>Thursday</u> October 30 @ 8 PM*
+    * Reading 10 will be due on *<u>Thursday</u> October 30 @ 11:59 PM*
+    * Lab 10 will be due on *<u>Friday</u> October 31 @ 5 PM*
