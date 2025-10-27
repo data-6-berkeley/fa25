@@ -95,9 +95,9 @@
 
 - name: "Control: Iteration"
   number: 15
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec15%2Flec15.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1_IYd0AyntT8AkXhw9hfYBw3MdUPl4XUoAihZ8tJ04Fc/edit?usp=sharing"
 
 - name: "Measurements, Validity, and Reliability"
   number: 16
