@@ -101,9 +101,9 @@
 
 - name: "Measurements, Validity, and Reliability"
   number: 16
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec16%2Flec16.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/13mJmUvWdBpJS9NYmK-mniefU7sikqWtIQIUGGPq3xcI/edit?usp=sharing"
 
 
 - name: "APIs"
