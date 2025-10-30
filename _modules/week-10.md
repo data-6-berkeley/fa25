@@ -16,7 +16,7 @@ Wed Oct 29
 : **Reading 10**{: .label .label-reading} [{{ site.data.reading[10].name }}]({{site.data.reading[10].link}}) 
     : (due Thu 10/30)
 : **Homework 5**{: .label .label-homework} {{ site.data.hw[5].name }}  
-    : (due Wed 11/5)  
+    : (due Thu 11/6 @ 8pm)  
 
 Fri Oct 31  
 : **Discussion 10**{: .label .label-discussion} {{ site.data.disc[10].name }}  
