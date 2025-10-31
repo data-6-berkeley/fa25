@@ -40,7 +40,7 @@
 
 - name: "Iterations"
   number: 10
-  link:  
+  link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab10%2Flab10.ipynb&branch=main
 
 - name: "BeautifulSoup"
   number: 11
