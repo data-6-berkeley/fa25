@@ -15,7 +15,7 @@ Wed Oct 29
     &#8226;  [Blank Demo]({{ site.data.lec[16].demo }})
 : **Reading 10**{: .label .label-reading} [{{ site.data.reading[10].name }}]({{site.data.reading[10].link}}) 
     : (due Thu 10/30)
-: **Homework 5**{: .label .label-homework} {{ site.data.hw[5].name }}  
+: **Homework 5**{: .label .label-homework} [{{ site.data.hw[5].name }}]({{site.data.hw[5].link}})
     : (due Thu 11/6 @ 8pm)  
 
 Fri Oct 31  
