@@ -106,19 +106,19 @@
   slides: "https://docs.google.com/presentation/d/13mJmUvWdBpJS9NYmK-mniefU7sikqWtIQIUGGPq3xcI/edit?usp=sharing"
 
 
-- name: "APIs"
-  number: 17
-  demo:
-  demo-blank:
-  slides:
-
 - name: "File Formats and Dictionaries"
+  number: 17
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec17%2Flec17.ipynb"
+  demo-blank:
+  slides: "https://docs.google.com/presentation/d/1qqNFJSMPfvBv3-6Zm_uIl40W09Gu4RFEQV73zaw30CE/edit?usp=sharing"
+
+- name: "BeautifulSoup"
   number: 18
   demo:
   demo-blank:
   slides:
 
-- name: "Practice/TBD"
+- name: "No class"
   number: 19
   demo:
   demo-blank:

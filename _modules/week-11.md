@@ -6,7 +6,8 @@ status: Active
 
 Mon Nov 3  
 : **17**{: .label} {{ site.data.lec[17].name }}  
-    <!--: Slides &#8226; Blank Demo  -->  
+    : [Slides]({{ site.data.lec[17].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[17].demo }})
 
 Wed Nov 5  
 : **18**{: .label} {{ site.data.lec[18].name }}  
@@ -17,6 +18,6 @@ Wed Nov 5
     : (due Thu 11/20 8pm)  
 
 Fri Nov 7  
-: **Discussion 11**{: .label .label-discussion} Project 3
+: **Discussion 11**{: .label .label-discussion} {{ site.data.disc[11].name }}  
 : **Lab 11**{: .label .label-lab} {{ site.data.lab[11].name }}  
     : (due Fri 11/7)  
