@@ -113,13 +113,16 @@ There will not be alternate exams. All exams will be held in-person. More detail
 Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
-| Surveys | 3% | - 3-5 course surveys, possibly guest lectures |
-| Readings | 7% | - 14 readings |
-| Lab Section | 10% | - 2 drops |
+| Surveys | 0.75% | - 3-5 course surveys, possibly guest lectures |
+| Readings | 6.5% | - 13 readings |
+| Lab Section | 12.75% | - 2 drops |
 | Assignments | 40% | - 5 homework assignments (4% each) <br/> - 2 projects (5% each)<br/> - Final Project (10%)|
 | Exams | 40% | - 3 quizzes (9% each) <br/> - Final Exam (13%) |
 
-[update 9/19] Assignment grade components were updated to accommodate one less project.
+Updates:
+
+* [as of 9/19] Assignment grade components were updated to accommodate one less project.
+* [as of 11/3] One fewer reading.
 
 We will share information later in the semester regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 ear

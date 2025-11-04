@@ -14,6 +14,5 @@ Wed Nov 12
     : (due Thu 11/13 @ 11:59PM)  
 
 Fri Nov 14  
-: **Discussion 12**{: .label .label-discussion} Lab 12 work time  
-: **Lab 12**{: .label .label-lab} {{ site.data.lab[12].name }}  
+: **Discussion 12**{: .label .label-discussion} **Lab 12**{: .label .label-lab} {{ site.data.lab[12].name }}  
     : (due Fri 11/14)  

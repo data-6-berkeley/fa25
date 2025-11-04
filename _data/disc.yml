@@ -68,8 +68,16 @@
   worksheet: 
   solution: 
 
-- name: "Impact of LLMs"
+- name: ""
   number: 12
   slides: 
   worksheet: 
   solution: 
+
+
+- name: "Impact of LLMs"
+  number: 13
+  slides: 
+  worksheet: 
+  solution: 
+  
