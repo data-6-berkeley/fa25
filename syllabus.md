@@ -113,9 +113,9 @@ There will not be alternate exams. All exams will be held in-person. More detail
 Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
-| Surveys | 0.75% | - 3-5 course surveys, possibly guest lectures |
+| Surveys | 0.75% | - 3 course surveys |
 | Readings | 6.5% | - 13 readings |
-| Lab Section | 12.75% | - 2 drops |
+| Lab Section | 12.75% | - 14 labs with 2 drops |
 | Assignments | 40% | - 5 homework assignments (4% each) <br/> - 2 projects (5% each)<br/> - Final Project (10%)|
 | Exams | 40% | - 3 quizzes (9% each) <br/> - Final Exam (13%) |
 
