@@ -18,6 +18,7 @@ Wed Nov 5
     : (due Thu 11/20 8pm)  
 
 Fri Nov 7  
-: **Discussion 11**{: .label .label-discussion} {{ site.data.disc[11].name }}  
+: **Discussion 11**{: .label .label-discussion} {{ site.data.disc[11].name }}
+: [**Python Visualizer**](https://pythontutor.com/render.html#mode=edit)  
 : **Lab 11**{: .label .label-lab} {{ site.data.lab[11].name }}  
     : (due Fri 11/7)  

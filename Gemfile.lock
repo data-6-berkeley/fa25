@@ -67,11 +67,15 @@ GEM
     faraday-retry (2.2.1)
       faraday (~> 2.0)
     ffi (1.17.0-arm64-darwin)
+    ffi (1.17.0-x64-mingw-ucrt)
     ffi (1.17.0-x86_64-darwin)
     ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     google-protobuf (4.27.3-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.27.3-x64-mingw-ucrt)
       bigdecimal
       rake (>= 13)
     google-protobuf (4.27.3-x86_64-darwin)
@@ -151,6 +155,8 @@ GEM
       uri
     nokogiri (1.16.7-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.16.7-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.16.7-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
@@ -216,6 +222,8 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.77.8-arm64-darwin)
       google-protobuf (~> 4.26)
+    sass-embedded (1.77.8-x64-mingw-ucrt)
+      google-protobuf (~> 4.26)
     sass-embedded (1.77.8-x86_64-darwin)
       google-protobuf (~> 4.26)
     sass-embedded (1.77.8-x86_64-linux-gnu)
@@ -236,6 +244,8 @@ GEM
     thread_safe (0.3.6)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2025.2)
+      tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
     uri (0.13.0)
     virtus (2.0.0)
@@ -250,6 +260,7 @@ GEM
 PLATFORMS
   arm64-darwin-23
   arm64-darwin-24
+  x64-mingw-ucrt
   x86_64-darwin-23
   x86_64-darwin-24
   x86_64-linux
@@ -275,6 +286,7 @@ DEPENDENCIES
   rubocop-capybara
   rubocop-rspec
   selenium-webdriver
+  tzinfo-data (~> 1.2025)
   webrick
 
 RUBY VERSION
