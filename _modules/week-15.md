@@ -9,7 +9,7 @@ Mon Dec 1
     <!--: Slides &#8226; Blank Demo  -->
 
 Wed Dec 3  
-: **23**{: .label .label-lecture} {{ site.data.lec[24].name }}  
+: **24**{: .label .label-lecture} {{ site.data.lec[24].name }}  
     <!--: Slides &#8226; Blank Demo -->
 : **Reading 14**{: .label .label-reading} {{ site.data.reading[14].name }}  
     : (due Thu 12/4 @ 11:59PM)  
