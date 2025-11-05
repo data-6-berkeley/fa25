@@ -11,7 +11,8 @@ Mon Nov 3
 
 Wed Nov 5  
 : **18**{: .label .label-lecture} {{ site.data.lec[18].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
+    : [Slides]({{ site.data.lec[18].slides }})
+    &#8226;  [Blank Demo]({{ site.data.lec[18].demo }})
 : **Reading 11**{: .label .label-reading} {{ site.data.reading[11].name }}  
     : (due Thu 11/6)
 : **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
