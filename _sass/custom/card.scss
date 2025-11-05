@@ -60,6 +60,10 @@
       background-color: $blue-100;
       color: white;
     }
+    &.label-lecture {
+      background-color: $grey-lt-100;
+      color: $grey-dk-100;
+    }
     
   }
 }

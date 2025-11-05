@@ -1,15 +1,15 @@
 ---
-title: Week 7 — Summarizing and Visualizing Data
+title: Week 7 — Advanced Table Methods I
 class: Berkeley
 status: Active
 ---
 Mon Oct 6  
-: **10**{: .label} {{ site.data.lec[10].name }}
+: **10**{: .label .label-lecture} {{ site.data.lec[10].name }}
     : [Slides]({{ site.data.lec[10].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[10].demo }})
 
 Wed Oct 8  
-: **11**{: .label} {{ site.data.lec[11].name }}  
+: **11**{: .label .label-lecture} {{ site.data.lec[11].name }}  
     : [Slides]({{ site.data.lec[11].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[11].demo }})
 : **Reading 7**{: .label .label-reading} [{{ site.data.reading[7].name }}]({{site.data.reading[7].link}}) 

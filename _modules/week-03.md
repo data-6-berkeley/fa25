@@ -4,12 +4,12 @@ class: Berkeley
 status: Active
 ---
 Mon Sep 8  
-: **3**{: .label} {{ site.data.lec[3].name }}  
+: **3**{: .label .label-lecture} {{ site.data.lec[3].name }}  
     : [Slides]({{ site.data.lec[3].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[3].demo }})
 
 Wed Sep 10  
-: **4**{: .label} {{ site.data.lec[4].name }}  
+: **4**{: .label .label-lecture} {{ site.data.lec[4].name }}  
     : [Slides]({{ site.data.lec[4].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[4].demo }}) 
     &#8226;  [Sheet]({{ site.data.lec[4].demo-sheet }})

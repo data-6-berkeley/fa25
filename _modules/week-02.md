@@ -7,7 +7,7 @@ Mon Sep 1
 : **Holiday**{: .label} No class
 
 Wed Sep 3  
-: **2**{: .label} {{ site.data.lec[2].name }}  
+: **2**{: .label .label-lecture} {{ site.data.lec[2].name }}  
     : [Slides]({{ site.data.lec[2].slides }})
     &#8226;  [Demo]({{ site.data.lec[2].demo }})
 : **Reading 2**{: .label .label-reading} [{{ site.data.reading[2].name }}]({{site.data.reading[2].link}}) 

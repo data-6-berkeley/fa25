@@ -5,12 +5,12 @@ status: Active
 ---
 
 Mon Nov 3  
-: **17**{: .label} {{ site.data.lec[17].name }}  
+: **17**{: .label .label-lecture} {{ site.data.lec[17].name }}  
     : [Slides]({{ site.data.lec[17].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[17].demo }})
 
 Wed Nov 5  
-: **18**{: .label} {{ site.data.lec[18].name }}  
+: **18**{: .label .label-lecture} {{ site.data.lec[18].name }}  
     <!--: Slides &#8226; Blank Demo  -->
 : **Reading 11**{: .label .label-reading} {{ site.data.reading[11].name }}  
     : (due Thu 11/6)
