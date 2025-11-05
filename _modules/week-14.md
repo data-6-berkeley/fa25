@@ -5,7 +5,7 @@ status: Active
 ---
 
 Mon Nov 24
-: **22**{: .label} {{ site.data.lec[22].name }} 
+: **22**{: .label .label-lecture} {{ site.data.lec[22].name }} 
     <!--: Slides &#8226; Blank Demo  -->
 
 Wed Nov 26

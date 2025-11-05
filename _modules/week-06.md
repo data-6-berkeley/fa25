@@ -5,12 +5,12 @@ status: Active
 ---
 
 Mon Sep 29  
-: **8**{: .label} {{ site.data.lec[8].name }}  
+: **8**{: .label .label-lecture} {{ site.data.lec[8].name }}  
     : [Slides]({{ site.data.lec[8].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[8].demo }})
 
 Wed Oct 1  
-: **9**{: .label} {{ site.data.lec[9].name }}  
+: **9**{: .label .label-lecture} {{ site.data.lec[9].name }}  
     : [Slides]({{ site.data.lec[9].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[9].demo }})
 : **Reading 6**{: .label .label-reading} [{{ site.data.reading[6].name }}]({{site.data.reading[6].link}}) 

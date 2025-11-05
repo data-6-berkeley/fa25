@@ -114,9 +114,9 @@
 
 - name: "BeautifulSoup"
   number: 18
-  demo:
+  demo: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec18%2Flec18.ipynb"
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1QN797mY5R416s9UqESBnDNDGDHstWDNkqS-vhr3PUrQ/edit?usp=sharing"
 
 - name: "No class"
   number: 19

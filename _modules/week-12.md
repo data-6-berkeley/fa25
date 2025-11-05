@@ -8,7 +8,7 @@ Mon Nov 10
 : **Quiz 3**{: .label .label-exam} {{ site.data.quiz[3].name }}  
 
 Wed Nov 12  
-: **19**{: .label} {{ site.data.lec[19].name }}  
+: **19**{: .label .label-lecture} {{ site.data.lec[19].name }}  
     <!--: Slides &#8226; Blank Demo  -->
 : **Reading 12**{: .label .label-reading} {{ site.data.reading[12].name }}  
     : (due Thu 11/13 @ 11:59PM)  

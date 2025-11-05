@@ -8,7 +8,7 @@ Mon Oct 13
 : **Quiz 2**{: .label .label-exam} {{ site.data.quiz[2].name }}  
 
 Wed Oct 15  
-: **12**{: .label} {{ site.data.lec[12].name }}  
+: **12**{: .label .label-lecture} {{ site.data.lec[12].name }}  
     : [Slides]({{ site.data.lec[12].slides }})
     &#8226;  [Blank Demo]({{ site.data.lec[12].demo }})
 : **Reading 8**{: .label .label-reading} [{{ site.data.reading[8].name }}]({{site.data.reading[8].link}})  
