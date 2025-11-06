@@ -58,9 +58,9 @@
 
 - name: "Iterations and Algorithms"
   number: 10
-  slides: 
+  slides: https://docs.google.com/presentation/d/1JwBE-Noa9_p0yLilU1neM53OP2EHNcOPj9Wi7ON_gt0/edit?usp=sharing
   worksheet: https://drive.google.com/file/d/1v_ADN4wzu6r0ch_ElHfRN9Lo1zuqjQgU/view?usp=sharing
-  solution: 
+  solution: https://drive.google.com/file/d/1THVIpdpPkl6HC2u1WF1lsy2gHMfNG-rJ/view?usp=sharing
 
 - name: "Quiz 3 Review"
   number: 11
