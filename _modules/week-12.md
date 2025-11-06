@@ -6,6 +6,8 @@ status: Active
 
 Mon Nov 10  
 : **Quiz 3**{: .label .label-exam} {{ site.data.quiz[3].name }}  
+: **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
+    : (due ~~Thu 11/20~~ Tue 11/25 8pm)  
 
 Wed Nov 12  
 : **19**{: .label .label-lecture} {{ site.data.lec[19].name }}  
