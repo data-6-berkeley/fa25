@@ -15,8 +15,6 @@ Wed Nov 5
     &#8226;  [Blank Demo]({{ site.data.lec[18].demo }})
 : **Reading 11**{: .label .label-reading} [{{ site.data.reading[11].name }}]({{site.data.reading[11].link}})  
     : (due Thu 11/6)
-: **Project 2**{: .label .label-homework} {{ site.data.proj[2].name }}  
-    : (due Thu 11/20 8pm)  
 
 Fri Nov 7  
 : **Discussion 11**{: .label .label-discussion} {{ site.data.disc[11].name }}
