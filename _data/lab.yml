@@ -44,7 +44,7 @@
 
 - name: "Dictionaries"
   number: 11
-  link:  
+  link:  https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab11%2Flab11.ipynb&branch=main
 
 - name: "BeautifulSoup"
   number: 12
