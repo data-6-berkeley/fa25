@@ -10,11 +10,8 @@ Mon Nov 10
     : (due ~~Thu 11/20~~ Tue 11/25 8pm)  
 
 Wed Nov 12  
-: **19**{: .label .label-lecture} {{ site.data.lec[19].name }}  
-    <!--: Slides &#8226; Blank Demo  -->
-: **Reading 12**{: .label .label-reading} {{ site.data.reading[12].name }}  
-    : (due Thu 11/13 @ 11:59PM)  
+: **Holiday**{: .label} No class
 
 Fri Nov 14  
-: **Discussion 12**{: .label .label-discussion} **Lab 12**{: .label .label-lab} {{ site.data.lab[12].name }}  
+: **Discussion 12**{: .label .label-discussion} **Lab 12**{: .label .label-lab} [{{ site.data.lab[12].name }}]({{ site.data.lab[12].link }})
     : (due Fri 11/14)  
