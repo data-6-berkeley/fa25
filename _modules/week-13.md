@@ -6,6 +6,7 @@ status: Active
 
 Mon Nov 17  
 : **20**{: .label .label-lecture} {{ site.data.lec[20].name }}  
+    : [Slides]({{ site.data.lec[20].slides }})
     <!--: Slides &#8226; Blank Demo  -->
 
 Wed Nov 19  
