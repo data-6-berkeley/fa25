@@ -137,20 +137,14 @@
   slides:
 
 
-- name: "TBD"
+- name: "Industry APIs: polars"
   number: 22
   demo:
   demo-blank:
   slides:
 
-- name: "Industry APIs: polars"
-  number: 23
-  demo:
-  demo-blank:
-  slides:
-
 - name: "Conclusion"
-  number: 24
+  number: 23
   demo:
   demo-blank:
   slides:
