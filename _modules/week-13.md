@@ -12,7 +12,7 @@ Mon Nov 17
 Wed Nov 19  
 : **21**{: .label .label-lecture} {{ site.data.lec[21].name }}  
     : [Slides]({{ site.data.lec[21].slides }})
-: **Reading 13**{: .label .label-reading} {{ site.data.reading[13].name }}  
+: **Reading 13**{: .label .label-reading} [{{ site.data.reading[13].name }}]({{site.data.reading[13].link}})  
     : (due Thu 11/20 @ 11:59PM)
 : **Project**{: .label .label-homework} {{ site.data.proj[3].name }}  
     : (Part 1 due Thu 12/4 @ 8pm, Part 2 due Thu 12/11 @ 8pm)  
