@@ -118,33 +118,27 @@
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1QN797mY5R416s9UqESBnDNDGDHstWDNkqS-vhr3PUrQ/edit?usp=sharing"
 
-- name: "No class"
-  number: 19
-  demo:
-  demo-blank:
-  slides:
-
 - name: "Computational Social Science"
-  number: 20
+  number: 19
   demo:
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1UmkNWQJdoEzsiM7H2DrkV9ghUkiaiN1o733bDC4uaYE/edit?usp=sharing"
 
-- name: "LLMs and Prompt Engineering, NLP"
-  number: 21
+- name: "Qualitative Coding, Cohen's Kappa"
+  number: 20
   demo:
   demo-blank:
   slides: "https://docs.google.com/presentation/d/1-ljp0mvgDFZYQgh5gkuSMl6oYSKxHZUwiB-nGoG4EPs/edit?usp=sharing"
 
 
-- name: "Industry APIs: polars"
-  number: 22
+- name: "LLMs, continued"
+  number: 21
   demo:
   demo-blank:
   slides:
 
-- name: "Conclusion"
-  number: 23
+- name: "Industry APIs: polars / Conclusion"
+  number: 22
   demo:
   demo-blank:
   slides:

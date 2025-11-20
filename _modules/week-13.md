@@ -5,13 +5,13 @@ status: Active
 ---
 
 Mon Nov 17  
-: **20**{: .label .label-lecture} {{ site.data.lec[20].name }}  
-    : [Slides]({{ site.data.lec[20].slides }})
+: **19**{: .label .label-lecture} {{ site.data.lec[19].name }}  
+    : [Slides]({{ site.data.lec[19].slides }})
     <!--: Slides &#8226; Blank Demo  -->
 
 Wed Nov 19  
-: **21**{: .label .label-lecture} {{ site.data.lec[21].name }}  
-    : [Slides]({{ site.data.lec[21].slides }})
+: **20**{: .label .label-lecture} {{ site.data.lec[20].name }}  
+    : [Slides]({{ site.data.lec[20].slides }})
 : **Reading 13**{: .label .label-reading} [{{ site.data.reading[13].name }}]({{site.data.reading[13].link}})  
     : (due Thu 11/20 @ 11:59PM)
 : **Project**{: .label .label-homework} {{ site.data.proj[3].name }}  

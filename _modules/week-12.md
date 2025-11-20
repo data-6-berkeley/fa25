@@ -10,7 +10,7 @@ Mon Nov 10
     : (due ~~Thu 11/20~~ Tue 11/25 8pm)  
 
 Wed Nov 12  
-: **Holiday**{: .label} No class
+: **No class**{: .label} No class
 
 Fri Nov 14  
 : **Discussion 12**{: .label .label-discussion} **Lab 12**{: .label .label-lab} [{{ site.data.lab[12].name }}]({{ site.data.lab[12].link }})
