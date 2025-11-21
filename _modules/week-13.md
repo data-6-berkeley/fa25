@@ -17,6 +17,6 @@ Wed Nov 19
 
 Fri Nov 21  
 : **Discussion 13**{: .label .label-discussion} {{ site.data.disc[13].name }}  
-   <!--: Slides &#8226; Worksheet &#8226; Solution  -->
-: **Lab 13**{: .label .label-lab} {{ site.data.lab[13].name }}  
+    : [Slides]({{ site.data.disc[13].slides }})
+: **Lab 13**{: .label .label-lab} [{{ site.data.lab[13].name }}]({{ site.data.lab[13].link }})
     : (due Fri 11/21)  
