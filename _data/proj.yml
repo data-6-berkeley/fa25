@@ -8,15 +8,16 @@
   number: 2
   link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Fproject%2Fproject2%2Fproject2.ipynb&branch=main
 
-- name: "Final Project"
+- name: "Final Project (Part A)"
   number: 3
-  link: 
+  written: https://docs.google.com/document/d/11fLAJmCwJT55pWUVhHQQ2YXkPtPcGrH7Bmn0DBWM85M/edit?usp=sharing
+  coding: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Fproject%2Fproject_final%2Fproject_final_partA.ipynb&branch=main
 
-- name: "Final Project (Part 1) due"
+- name: "Final Project (Part A) due"
   number: 4
   link: 
 
 
-- name: "Final Project (Part 2) due"
+- name: "Final Project (Part B) due"
   number: 5
   link: 
