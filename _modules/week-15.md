@@ -17,6 +17,5 @@ Wed Dec 3
     : (due Thu 12/4 8pm)
 
 Fri Dec 5
-: **Discussion**{: .label .label-discussion} 
-: **Lab 14**{: .label .label-lab} {{ site.data.lab[14].name }}  
-    : (due Fri 12/5)  
+: **Discussion 14**{: .label .label-discussion} **{{ site.data.disc[14].name }}**
+: **Lab 14**{: .label .label-lab} **Final Project Working Time**
