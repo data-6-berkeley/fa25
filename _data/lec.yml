@@ -135,7 +135,7 @@
   number: 21
   demo:
   demo-blank:
-  slides:
+  slides: "https://docs.google.com/presentation/d/1en284_-Hy7ZM0BqoPaAsmoxwcwaQU8hVs0sSWiSoI6w/edit?usp=sharing"
 
 - name: "Industry APIs: polars / Conclusion"
   number: 22

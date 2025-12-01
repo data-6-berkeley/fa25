@@ -5,8 +5,8 @@ status: Active
 ---
 
 Mon Dec 1  
-: **21**{: .label .label-lecture} {{ site.data.lec[21].name }} 
-    <!--: Slides &#8226; Blank Demo  -->
+: **21**{: .label .label-lecture} {{ site.data.lec[21].name }}  
+    : [Slides]({{ site.data.lec[21].slides }})
 
 Wed Dec 3  
 : **22**{: .label .label-lecture} {{ site.data.lec[22].name }}  
