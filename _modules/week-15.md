@@ -11,7 +11,7 @@ Mon Dec 1
 Wed Dec 3  
 : **22**{: .label .label-lecture} {{ site.data.lec[22].name }}  
     <!--: Slides &#8226; Blank Demo -->
-: **Reading 14**{: .label .label-reading} {{ site.data.reading[14].name }}  
+: **Reading 14**{: .label .label-reading} [{{ site.data.reading[14].name }}]({{site.data.reading[14].link}})  
     : (due Thu 12/4)  
 : **Project**{: .label .label-homework} **{{ site.data.proj[4].name }}**
     : (due Thu 12/4 8pm)
