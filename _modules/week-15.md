@@ -10,12 +10,16 @@ Mon Dec 1
 
 Wed Dec 3  
 : **22**{: .label .label-lecture} {{ site.data.lec[22].name }}  
+    : [Slides]({{ site.data.lec[22].slides }})
     <!--: Slides &#8226; Blank Demo -->
-: **Reading 14**{: .label .label-reading} [{{ site.data.reading[14].name }}]({{site.data.reading[14].link}})  
-    : (due Thu 12/4)  
-: **Project**{: .label .label-homework} **{{ site.data.proj[4].name }}**
+: **Project**{: .label .label-homework} {{ site.data.proj[4].name }}
     : (due Thu 12/4 8pm)
 
+: **Reading 14**{: .label .label-reading} [{{ site.data.reading[14].name }}]({{site.data.reading[14].link}})  
+    : (due Fri 12/5)  
+: **Survey**{: .label .label-homework} [{{ site.data.survey[2].name }} ]( {{site.data.survey[2].link }})
+    : (due Fri 12/12 **11:59pm**)
+    
 Fri Dec 5
 : **Discussion 14**{: .label .label-discussion} **{{ site.data.disc[14].name }}**
 : **Lab 14**{: .label .label-lab} **Final Project Working Time**
