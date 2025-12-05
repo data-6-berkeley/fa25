@@ -22,4 +22,5 @@ Wed Dec 3
     
 Fri Dec 5
 : **Discussion 14**{: .label .label-discussion} **{{ site.data.disc[14].name }}**
+    : [Worksheet]( {{ site.data.disc[14].worksheet }})
 : **Lab 14**{: .label .label-lab} **Final Project Working Time**
