@@ -13,7 +13,7 @@ Wed Dec 3
     : [Slides]({{ site.data.lec[22].slides }})
     <!--: Slides &#8226; Blank Demo -->
 : **Project**{: .label .label-homework} {{ site.data.proj[4].name }} ([Written]({{ site.data.proj[4].written }}), [Coding]({{ site.data.proj[4].coding }}))
-  : (Part B due Thu 12/11 8pm) 
+  : (Part B due Fri 12/12 8pm) 
 
 : **Reading 14**{: .label .label-reading} [{{ site.data.reading[14].name }}]({{site.data.reading[14].link}})  
     : (due Fri 12/5)  
