@@ -26,12 +26,12 @@ div.highlighter-rouge div.highlight {
 @import './course_overrides';
 
 .warning a {
-  color: #9AB3FE;
+  color: $warning-link-color;
   text-decoration: underline;
 }
 
 /* Optional: Add a hover state for better UX */
 .warning a:hover {
-  color: #c0cfff;
+  color: $warning-link-hover-color;
   text-decoration: none;
 }
