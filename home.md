@@ -9,6 +9,9 @@ seo:
   name: Berkeley Class Site
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # **Data 6: Introduction to Computational Thinking with Data Science and Society &#x1f4ca;**
 
 {: .mb-2 }
